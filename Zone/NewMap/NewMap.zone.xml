@@ -1,0 +1,1243 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT>
+    <PROPERTY />
+    <SCENE>
+        <RTERRAIN>
+            <COMMON>
+                <POSITION>0.000000 0.000000 0.000000</POSITION>
+                <DIRECTION>0.000000 1.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>1.000000 1.000000 1.000000</SCALE>
+            </COMMON>
+            <PROPERTY version="1.3">
+                <MAP_WIDTH type="int">
+                    <int>512</int>
+                </MAP_WIDTH>
+                <MAP_HEIGHT type="int">
+                    <int>512</int>
+                </MAP_HEIGHT>
+                <MAP_SIZE type="vec3">
+                    <vec3>80000.000000 80000.000000 0.000000</vec3>
+                </MAP_SIZE>
+                <MAP_NAME>NewMap_dis.dds</MAP_NAME>
+                <BASEMAP_NAME>NewMap_baked.dds</BASEMAP_NAME>
+                <CREATE_NAVEMESH type="bool">
+                    <bool>true</bool>
+                </CREATE_NAVEMESH>
+                <GRASS>NewMap_grass.grs</GRASS>
+                <LAYER type="array" size="1">
+                    <LAYERINFO index="0">
+                        <ALPHAMAP>NewMap_mask0.dds</ALPHAMAP>
+                        <TILEMAP type="blend">material-0286841B-symbol_baseColor.png.dds</TILEMAP>
+                        <TILEUV type="vec3">
+                            <vec3>500.000000 500.000000 1.000000</vec3>
+                        </TILEUV>
+                    </LAYERINFO>
+                </LAYER>
+            </PROPERTY>
+        </RTERRAIN>
+        <DIRLIGHT>
+            <COMMON name="TerrainLightMap0">
+                <POSITION>0.000000 0.000000 0.000000</POSITION>
+                <DIRECTION>0.000000 1.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>1.000000 1.000000 1.000000</SCALE>
+            </COMMON>
+            <PROPERTY>
+                <SHADOWLUMINOSITY>0.200</SHADOWLUMINOSITY>
+                <POWER>1.000</POWER>
+                <AMBIENT>0.000 0.000 0.000</AMBIENT>
+                <DIFFUSE>1.000 1.000 1.000</DIFFUSE>
+                <SPECULAR>1.000 1.000 1.000</SPECULAR>
+                <SKYSPECULAR>0.000</SKYSPECULAR>
+            </PROPERTY>
+        </DIRLIGHT>
+        <SCENEINSTANCE>
+            <COMMON name="Town.scene_001">
+                <POSITION>53431.464844 19597.914063 3039.394531</POSITION>
+                <DIRECTION>0.000000 1.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>0.035574 0.035574 0.035574</SCALE>
+            </COMMON>
+            <PROPERTY>
+                <FILENAME>Town.scene.xml</FILENAME>
+            </PROPERTY>
+            <SCENE />
+        </SCENEINSTANCE>
+        <SCENEINSTANCE>
+            <COMMON name="ingen_bench.scene_001">
+                <POSITION>51640.910156 21817.162109 3608.583252</POSITION>
+                <DIRECTION>0.956305 -0.292372 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>1.000000 1.000000 1.000000</SCALE>
+            </COMMON>
+            <PROPERTY>
+                <FILENAME>ingen_bench.scene.xml</FILENAME>
+            </PROPERTY>
+            <SCENE />
+        </SCENEINSTANCE>
+        <SCENEINSTANCE>
+            <COMMON name="ingen_bench.scene_002">
+                <POSITION>53938.675781 16775.292969 3608.583252</POSITION>
+                <DIRECTION>-1.000000 -0.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>1.000000 1.000000 1.000000</SCALE>
+            </COMMON>
+            <PROPERTY>
+                <FILENAME>ingen_bench.scene.xml</FILENAME>
+            </PROPERTY>
+            <SCENE />
+        </SCENEINSTANCE>
+        <SCENEINSTANCE>
+            <COMMON name="ingen_bench.scene_003">
+                <POSITION>53938.035156 17113.689453 3608.583252</POSITION>
+                <DIRECTION>-1.000000 -0.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>1.000000 1.000000 1.000000</SCALE>
+            </COMMON>
+            <PROPERTY>
+                <FILENAME>ingen_bench.scene.xml</FILENAME>
+            </PROPERTY>
+            <SCENE />
+        </SCENEINSTANCE>
+        <SCENEINSTANCE>
+            <COMMON name="ingen_memoboard_jj01.scene_001">
+                <POSITION>53291.335938 18558.025391 3039.394531</POSITION>
+                <DIRECTION>1.000000 -0.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>1.000000 1.000000 1.000000</SCALE>
+            </COMMON>
+            <PROPERTY>
+                <FILENAME>ingen_memoboard_jj01.scene.xml</FILENAME>
+            </PROPERTY>
+            <SCENE />
+        </SCENEINSTANCE>
+        <SCENEINSTANCE>
+            <COMMON name="ingen_parasol.scene_001">
+                <POSITION>54505.066406 15828.021484 3608.583252</POSITION>
+                <DIRECTION>0.000000 1.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>1.000000 1.000000 1.000000</SCALE>
+            </COMMON>
+            <PROPERTY>
+                <FILENAME>ingen_parasol.scene.xml</FILENAME>
+            </PROPERTY>
+            <SCENE />
+        </SCENEINSTANCE>
+        <SCENEINSTANCE>
+            <COMMON name="ingen_plantpot_jj02.scene_001">
+                <POSITION>51416.300781 18076.019531 3036.024658</POSITION>
+                <DIRECTION>0.000000 1.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>1.840303 1.840303 1.840303</SCALE>
+            </COMMON>
+            <PROPERTY>
+                <FILENAME>ingen_plantpot_jj02.scene.xml</FILENAME>
+            </PROPERTY>
+            <SCENE />
+        </SCENEINSTANCE>
+        <SCENEINSTANCE>
+            <COMMON name="ingen_rguild_dart_gh01.scene_001">
+                <POSITION>54586.042969 20370.722656 3750.880615</POSITION>
+                <DIRECTION>0.956305 -0.292372 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>1.000000 1.000000 1.000000</SCALE>
+            </COMMON>
+            <PROPERTY>
+                <FILENAME>ingen_rguild_dart_gh01.scene.xml</FILENAME>
+            </PROPERTY>
+            <SCENE />
+        </SCENEINSTANCE>
+        <SCENEINSTANCE>
+            <COMMON name="ingen_streetlight_02_day.scene_001">
+                <POSITION>51050.792969 15516.714844 3323.988770</POSITION>
+                <DIRECTION>0.000000 1.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>1.000000 1.000000 1.000000</SCALE>
+            </COMMON>
+            <PROPERTY>
+                <FILENAME>ingen_streetlight_02_day.scene.xml</FILENAME>
+            </PROPERTY>
+            <SCENE />
+        </SCENEINSTANCE>
+        <SCENEINSTANCE>
+            <COMMON name="ingen_streetlight_02_day.scene_002">
+                <POSITION>52876.597656 15667.539063 3323.988770</POSITION>
+                <DIRECTION>0.000000 1.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>1.000000 1.000000 1.000000</SCALE>
+            </COMMON>
+            <PROPERTY>
+                <FILENAME>ingen_streetlight_02_day.scene.xml</FILENAME>
+            </PROPERTY>
+            <SCENE />
+        </SCENEINSTANCE>
+        <SCENEINSTANCE>
+            <COMMON name="ingen_streetlight_02_day.scene_003">
+                <POSITION>55186.226563 15247.670898 3323.988770</POSITION>
+                <DIRECTION>0.000000 1.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>1.000000 1.000000 1.000000</SCALE>
+            </COMMON>
+            <PROPERTY>
+                <FILENAME>ingen_streetlight_02_day.scene.xml</FILENAME>
+            </PROPERTY>
+            <SCENE />
+        </SCENEINSTANCE>
+        <SCENEINSTANCE>
+            <COMMON name="ingen_streetlight_02_day.scene_004">
+                <POSITION>53938.949219 17403.781250 3039.394531</POSITION>
+                <DIRECTION>0.000000 1.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>1.000000 1.000000 1.000000</SCALE>
+            </COMMON>
+            <PROPERTY>
+                <FILENAME>ingen_streetlight_02_day.scene.xml</FILENAME>
+            </PROPERTY>
+            <SCENE />
+        </SCENEINSTANCE>
+        <SCENEINSTANCE>
+            <COMMON name="ingen_streetlight_02_day.scene_005">
+                <POSITION>50537.484375 19522.449219 3750.880615</POSITION>
+                <DIRECTION>0.000000 1.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>1.000000 1.000000 1.000000</SCALE>
+            </COMMON>
+            <PROPERTY>
+                <FILENAME>ingen_streetlight_02_day.scene.xml</FILENAME>
+            </PROPERTY>
+            <SCENE />
+        </SCENEINSTANCE>
+        <SCENEINSTANCE>
+            <COMMON name="ingen_streetlight_02_day.scene_006">
+                <POSITION>45709.023438 16125.612305 3530.462158</POSITION>
+                <DIRECTION>0.000000 1.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>1.000000 1.000000 1.000000</SCALE>
+            </COMMON>
+            <PROPERTY>
+                <FILENAME>ingen_streetlight_02_day.scene.xml</FILENAME>
+            </PROPERTY>
+            <SCENE />
+        </SCENEINSTANCE>
+        <SCENEINSTANCE>
+            <COMMON name="ingen_streetlight_02_day.scene_007">
+                <POSITION>50715.121094 16945.347656 3040.271484</POSITION>
+                <DIRECTION>0.000000 1.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>1.000000 1.000000 1.000000</SCALE>
+            </COMMON>
+            <PROPERTY>
+                <FILENAME>ingen_streetlight_02_day.scene.xml</FILENAME>
+            </PROPERTY>
+            <SCENE />
+        </SCENEINSTANCE>
+        <SCENEINSTANCE>
+            <COMMON name="ingen_streetlight_02_day.scene_008">
+                <POSITION>52487.445313 21039.007813 4177.772461</POSITION>
+                <DIRECTION>0.000000 1.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>1.000000 1.000000 1.000000</SCALE>
+            </COMMON>
+            <PROPERTY>
+                <FILENAME>ingen_streetlight_02_day.scene.xml</FILENAME>
+            </PROPERTY>
+            <SCENE />
+        </SCENEINSTANCE>
+        <SCENEINSTANCE>
+            <COMMON name="ingen_streetlight_02_day.scene_009">
+                <POSITION>52860.226563 23264.404297 4462.366699</POSITION>
+                <DIRECTION>0.000000 1.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>1.000000 1.000000 1.000000</SCALE>
+            </COMMON>
+            <PROPERTY>
+                <FILENAME>ingen_streetlight_02_day.scene.xml</FILENAME>
+            </PROPERTY>
+            <SCENE />
+        </SCENEINSTANCE>
+        <SCENEINSTANCE>
+            <COMMON name="ingen_streetlight_02_day.scene_010">
+                <POSITION>53613.242188 22948.542969 4462.366699</POSITION>
+                <DIRECTION>0.000000 1.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>1.000000 1.000000 1.000000</SCALE>
+            </COMMON>
+            <PROPERTY>
+                <FILENAME>ingen_streetlight_02_day.scene.xml</FILENAME>
+            </PROPERTY>
+            <SCENE />
+        </SCENEINSTANCE>
+        <SCENEINSTANCE>
+            <COMMON name="mt_eda_trcamp_fence.scene_001">
+                <POSITION>53777.226563 24396.796875 4514.626465</POSITION>
+                <DIRECTION>0.139173 0.990268 0.000000</DIRECTION>
+                <UP>-0.000000 0.000000 1.000000</UP>
+                <SCALE>1.383060 1.383060 1.383060</SCALE>
+            </COMMON>
+            <PROPERTY>
+                <FILENAME>mt_eda_trcamp_fence.scene.xml</FILENAME>
+            </PROPERTY>
+            <SCENE />
+        </SCENEINSTANCE>
+        <SCENEINSTANCE>
+            <COMMON name="mt_eda_trcamp_fence.scene_002">
+                <POSITION>57797.531250 14383.981445 3348.254150</POSITION>
+                <DIRECTION>0.996195 0.087156 0.000000</DIRECTION>
+                <UP>-0.000000 0.000000 1.000000</UP>
+                <SCALE>1.000000 1.000000 1.000000</SCALE>
+            </COMMON>
+            <PROPERTY>
+                <FILENAME>mt_eda_trcamp_fence.scene.xml</FILENAME>
+            </PROPERTY>
+            <SCENE />
+        </SCENEINSTANCE>
+        <SCENEINSTANCE>
+            <COMMON name="riode_waterfall.scene_001">
+                <POSITION>56823.234375 22472.087891 4951.546387</POSITION>
+                <DIRECTION>0.694658 0.719340 0.000000</DIRECTION>
+                <UP>-0.000000 0.000000 1.000000</UP>
+                <SCALE>0.595256 0.595256 0.595256</SCALE>
+            </COMMON>
+            <PROPERTY>
+                <FILENAME>riode_waterfall.scene.xml</FILENAME>
+            </PROPERTY>
+            <SCENE />
+        </SCENEINSTANCE>
+        <TREE>
+            <COMMON name="BM_BurfordHolly_RT_005">
+                <POSITION>51539.988281 17886.394531 3050.180176</POSITION>
+                <DIRECTION>0.000000 1.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>33.000000 33.000000 33.000000</SCALE>
+            </COMMON>
+            <PROPERTY>
+                <FILENAME>BM_BurfordHolly_RT.spt</FILENAME>
+            </PROPERTY>
+        </TREE>
+        <TREE>
+            <COMMON name="BM_BurfordHolly_RT_006">
+                <POSITION>51673.652344 18095.115234 3039.213867</POSITION>
+                <DIRECTION>0.000000 1.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>33.000000 33.000000 33.000000</SCALE>
+            </COMMON>
+            <PROPERTY>
+                <FILENAME>BM_BurfordHolly_RT.spt</FILENAME>
+            </PROPERTY>
+        </TREE>
+        <TREE>
+            <COMMON name="BM_BurfordHolly_RT_007">
+                <POSITION>51265.007813 18245.037109 3026.925293</POSITION>
+                <DIRECTION>0.000000 1.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>33.000000 33.000000 33.000000</SCALE>
+            </COMMON>
+            <PROPERTY>
+                <FILENAME>BM_BurfordHolly_RT.spt</FILENAME>
+            </PROPERTY>
+        </TREE>
+        <TREE>
+            <COMMON name="BM_BurfordHolly_RT_008">
+                <POSITION>46083.144531 16447.226563 3507.497070</POSITION>
+                <DIRECTION>0.000000 1.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>33.000000 33.000000 33.000000</SCALE>
+            </COMMON>
+            <PROPERTY>
+                <FILENAME>BM_BurfordHolly_RT.spt</FILENAME>
+            </PROPERTY>
+        </TREE>
+        <TREE>
+            <COMMON name="BM_BurfordHolly_RT_009">
+                <POSITION>45950.738281 16562.792969 3442.578125</POSITION>
+                <DIRECTION>0.000000 1.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>33.000000 33.000000 33.000000</SCALE>
+            </COMMON>
+            <PROPERTY>
+                <FILENAME>BM_BurfordHolly_RT.spt</FILENAME>
+            </PROPERTY>
+        </TREE>
+        <TREE>
+            <COMMON name="BM_BurfordHolly_RT_010">
+                <POSITION>45940.167969 16341.289063 3480.740723</POSITION>
+                <DIRECTION>0.000000 1.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>33.000000 33.000000 33.000000</SCALE>
+            </COMMON>
+            <PROPERTY>
+                <FILENAME>BM_BurfordHolly_RT.spt</FILENAME>
+            </PROPERTY>
+        </TREE>
+        <TREE>
+            <COMMON name="BM_BurfordHolly_RT_011">
+                <POSITION>49593.718750 16794.958984 3062.639648</POSITION>
+                <DIRECTION>-0.544639 0.838671 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>33.000000 33.000000 33.000000</SCALE>
+            </COMMON>
+            <PROPERTY>
+                <FILENAME>BM_BurfordHolly_RT.spt</FILENAME>
+            </PROPERTY>
+        </TREE>
+        <TREE>
+            <COMMON name="BM_BurfordHolly_RT_012">
+                <POSITION>49412.097656 16751.558594 3063.997070</POSITION>
+                <DIRECTION>-0.544639 0.838671 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>33.000000 33.000000 33.000000</SCALE>
+            </COMMON>
+            <PROPERTY>
+                <FILENAME>BM_BurfordHolly_RT.spt</FILENAME>
+            </PROPERTY>
+        </TREE>
+        <TREE>
+            <COMMON name="BM_BurfordHolly_RT_013">
+                <POSITION>49276.503906 16652.673828 3070.633789</POSITION>
+                <DIRECTION>-0.544639 0.838671 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>33.000000 33.000000 33.000000</SCALE>
+            </COMMON>
+            <PROPERTY>
+                <FILENAME>BM_BurfordHolly_RT.spt</FILENAME>
+            </PROPERTY>
+        </TREE>
+        <TREE>
+            <COMMON name="BM_BurfordHolly_RT_014">
+                <POSITION>49205.191406 16469.189453 3084.873047</POSITION>
+                <DIRECTION>-0.544639 0.838671 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>33.000000 33.000000 33.000000</SCALE>
+            </COMMON>
+            <PROPERTY>
+                <FILENAME>BM_BurfordHolly_RT.spt</FILENAME>
+            </PROPERTY>
+        </TREE>
+        <TREE>
+            <COMMON name="BM_BurfordHolly_RT_015">
+                <POSITION>49200.726563 16751.908203 3082.120117</POSITION>
+                <DIRECTION>-0.544639 0.838671 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>33.000000 33.000000 33.000000</SCALE>
+            </COMMON>
+            <PROPERTY>
+                <FILENAME>BM_BurfordHolly_RT.spt</FILENAME>
+            </PROPERTY>
+        </TREE>
+        <TREE>
+            <COMMON name="BM_BurfordHolly_RT_016">
+                <POSITION>49457.597656 16882.312500 3065.840820</POSITION>
+                <DIRECTION>-0.544639 0.838671 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>33.000000 33.000000 33.000000</SCALE>
+            </COMMON>
+            <PROPERTY>
+                <FILENAME>BM_BurfordHolly_RT.spt</FILENAME>
+            </PROPERTY>
+        </TREE>
+        <TREE>
+            <COMMON name="BM_BurfordHolly_RT_035">
+                <POSITION>52001.746094 13956.009766 3893.177490</POSITION>
+                <DIRECTION>0.000000 1.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>33.000000 33.000000 33.000000</SCALE>
+            </COMMON>
+            <PROPERTY>
+                <FILENAME>BM_BurfordHolly_RT.spt</FILENAME>
+            </PROPERTY>
+        </TREE>
+        <TREE>
+            <COMMON name="BM_BurfordHolly_RT_036">
+                <POSITION>51995.613281 14144.214844 3893.177490</POSITION>
+                <DIRECTION>0.000000 1.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>33.000000 33.000000 33.000000</SCALE>
+            </COMMON>
+            <PROPERTY>
+                <FILENAME>BM_BurfordHolly_RT.spt</FILENAME>
+            </PROPERTY>
+        </TREE>
+        <TREE>
+            <COMMON name="BM_BurfordHolly_RT_037">
+                <POSITION>52004.195313 14355.797852 3893.177490</POSITION>
+                <DIRECTION>0.000000 1.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>33.000000 33.000000 33.000000</SCALE>
+            </COMMON>
+            <PROPERTY>
+                <FILENAME>BM_BurfordHolly_RT.spt</FILENAME>
+            </PROPERTY>
+        </TREE>
+        <TREE>
+            <COMMON name="BM_BurfordHolly_RT_038">
+                <POSITION>50854.394531 16033.157227 3323.988770</POSITION>
+                <DIRECTION>0.000000 1.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>33.000000 33.000000 33.000000</SCALE>
+            </COMMON>
+            <PROPERTY>
+                <FILENAME>BM_BurfordHolly_RT.spt</FILENAME>
+            </PROPERTY>
+        </TREE>
+        <TREE>
+            <COMMON name="BM_BurfordHolly_RT_039">
+                <POSITION>49712.468750 16592.230469 3323.988770</POSITION>
+                <DIRECTION>0.000000 1.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>33.000000 33.000000 33.000000</SCALE>
+            </COMMON>
+            <PROPERTY>
+                <FILENAME>BM_BurfordHolly_RT.spt</FILENAME>
+            </PROPERTY>
+        </TREE>
+        <TREE>
+            <COMMON name="BM_BurfordHolly_RT_040">
+                <POSITION>56718.093750 19959.693359 3750.880615</POSITION>
+                <DIRECTION>0.000000 1.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>33.000000 33.000000 33.000000</SCALE>
+            </COMMON>
+            <PROPERTY>
+                <FILENAME>BM_BurfordHolly_RT.spt</FILENAME>
+            </PROPERTY>
+        </TREE>
+        <TREE>
+            <COMMON name="BM_BurfordHolly_RT_041">
+                <POSITION>54829.687500 19925.203125 3323.989014</POSITION>
+                <DIRECTION>0.000000 1.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>33.000000 33.000000 33.000000</SCALE>
+            </COMMON>
+            <PROPERTY>
+                <FILENAME>BM_BurfordHolly_RT.spt</FILENAME>
+            </PROPERTY>
+        </TREE>
+        <TREE>
+            <COMMON name="BM_BurfordHolly_RT_042">
+                <POSITION>54964.472656 19927.230469 3323.989014</POSITION>
+                <DIRECTION>0.000000 1.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>33.000000 33.000000 33.000000</SCALE>
+            </COMMON>
+            <PROPERTY>
+                <FILENAME>BM_BurfordHolly_RT.spt</FILENAME>
+            </PROPERTY>
+        </TREE>
+        <TREE>
+            <COMMON name="BM_BurfordHolly_RT_043">
+                <POSITION>54871.140625 20075.093750 3323.989014</POSITION>
+                <DIRECTION>0.000000 1.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>33.000000 33.000000 33.000000</SCALE>
+            </COMMON>
+            <PROPERTY>
+                <FILENAME>BM_BurfordHolly_RT.spt</FILENAME>
+            </PROPERTY>
+        </TREE>
+        <TREE>
+            <COMMON name="BM_BurfordHolly_RT_044">
+                <POSITION>56086.871094 21495.015625 3323.989014</POSITION>
+                <DIRECTION>0.000000 1.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>33.000000 33.000000 33.000000</SCALE>
+            </COMMON>
+            <PROPERTY>
+                <FILENAME>BM_BurfordHolly_RT.spt</FILENAME>
+            </PROPERTY>
+        </TREE>
+        <TREE>
+            <COMMON name="BM_BurfordHolly_RT_045">
+                <POSITION>56162.824219 21395.638672 3323.989014</POSITION>
+                <DIRECTION>0.000000 1.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>33.000000 33.000000 33.000000</SCALE>
+            </COMMON>
+            <PROPERTY>
+                <FILENAME>BM_BurfordHolly_RT.spt</FILENAME>
+            </PROPERTY>
+        </TREE>
+        <TREE>
+            <COMMON name="BM_BurfordHolly_RT_046">
+                <POSITION>56033.625000 21395.927734 3323.989014</POSITION>
+                <DIRECTION>0.000000 1.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>33.000000 33.000000 33.000000</SCALE>
+            </COMMON>
+            <PROPERTY>
+                <FILENAME>BM_BurfordHolly_RT.spt</FILENAME>
+            </PROPERTY>
+        </TREE>
+        <TREE>
+            <COMMON name="BM_BurfordHolly_RT_047">
+                <POSITION>55354.476563 21319.837891 3323.989014</POSITION>
+                <DIRECTION>0.000000 1.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>33.000000 33.000000 33.000000</SCALE>
+            </COMMON>
+            <PROPERTY>
+                <FILENAME>BM_BurfordHolly_RT.spt</FILENAME>
+            </PROPERTY>
+        </TREE>
+        <TREE>
+            <COMMON name="BM_BurfordHolly_RT_048">
+                <POSITION>55446.371094 21270.255859 3323.989014</POSITION>
+                <DIRECTION>0.000000 1.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>33.000000 33.000000 33.000000</SCALE>
+            </COMMON>
+            <PROPERTY>
+                <FILENAME>BM_BurfordHolly_RT.spt</FILENAME>
+            </PROPERTY>
+        </TREE>
+        <TREE>
+            <COMMON name="BM_BurfordHolly_RT_049">
+                <POSITION>55303.296875 21206.031250 3323.989014</POSITION>
+                <DIRECTION>0.000000 1.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>33.000000 33.000000 33.000000</SCALE>
+            </COMMON>
+            <PROPERTY>
+                <FILENAME>BM_BurfordHolly_RT.spt</FILENAME>
+            </PROPERTY>
+        </TREE>
+        <TREE>
+            <COMMON name="BM_BurfordHolly_RT_050">
+                <POSITION>54969.953125 20692.433594 3750.880615</POSITION>
+                <DIRECTION>0.000000 1.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>33.000000 33.000000 33.000000</SCALE>
+            </COMMON>
+            <PROPERTY>
+                <FILENAME>BM_BurfordHolly_RT.spt</FILENAME>
+            </PROPERTY>
+        </TREE>
+        <TREE>
+            <COMMON name="BM_BurfordHolly_RT_051">
+                <POSITION>54650.601563 19945.623047 3750.880615</POSITION>
+                <DIRECTION>0.000000 1.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>33.000000 33.000000 33.000000</SCALE>
+            </COMMON>
+            <PROPERTY>
+                <FILENAME>BM_BurfordHolly_RT.spt</FILENAME>
+            </PROPERTY>
+        </TREE>
+        <TREE>
+            <COMMON name="BM_BurfordHolly_RT_052">
+                <POSITION>53268.226563 19942.503906 3750.880615</POSITION>
+                <DIRECTION>0.000000 1.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>33.000000 33.000000 33.000000</SCALE>
+            </COMMON>
+            <PROPERTY>
+                <FILENAME>BM_BurfordHolly_RT.spt</FILENAME>
+            </PROPERTY>
+        </TREE>
+        <TREE>
+            <COMMON name="BM_BurfordHolly_RT_053">
+                <POSITION>53635.421875 19961.326172 3750.880615</POSITION>
+                <DIRECTION>0.000000 1.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>33.000000 33.000000 33.000000</SCALE>
+            </COMMON>
+            <PROPERTY>
+                <FILENAME>BM_BurfordHolly_RT.spt</FILENAME>
+            </PROPERTY>
+        </TREE>
+        <TREE>
+            <COMMON name="BM_BurfordHolly_RT_054">
+                <POSITION>53448.343750 21317.832031 3750.880615</POSITION>
+                <DIRECTION>0.000000 1.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>33.000000 33.000000 33.000000</SCALE>
+            </COMMON>
+            <PROPERTY>
+                <FILENAME>BM_BurfordHolly_RT.spt</FILENAME>
+            </PROPERTY>
+        </TREE>
+        <TREE>
+            <COMMON name="BM_BurfordHolly_RT_055">
+                <POSITION>52472.515625 21063.179688 4177.772461</POSITION>
+                <DIRECTION>0.000000 1.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>33.000000 33.000000 33.000000</SCALE>
+            </COMMON>
+            <PROPERTY>
+                <FILENAME>BM_BurfordHolly_RT.spt</FILENAME>
+            </PROPERTY>
+        </TREE>
+        <TREE>
+            <COMMON name="BM_BurfordHolly_RT_056">
+                <POSITION>54268.152344 22536.964844 4177.772461</POSITION>
+                <DIRECTION>0.000000 1.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>33.000000 33.000000 33.000000</SCALE>
+            </COMMON>
+            <PROPERTY>
+                <FILENAME>BM_BurfordHolly_RT.spt</FILENAME>
+            </PROPERTY>
+        </TREE>
+        <TREE>
+            <COMMON name="BM_BurfordHolly_RT_057">
+                <POSITION>54210.113281 22457.779297 4177.772461</POSITION>
+                <DIRECTION>0.000000 1.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>33.000000 33.000000 33.000000</SCALE>
+            </COMMON>
+            <PROPERTY>
+                <FILENAME>BM_BurfordHolly_RT.spt</FILENAME>
+            </PROPERTY>
+        </TREE>
+        <TREE>
+            <COMMON name="BM_BurfordHolly_RT_058">
+                <POSITION>54135.277344 22584.523438 4177.772461</POSITION>
+                <DIRECTION>0.000000 1.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>33.000000 33.000000 33.000000</SCALE>
+            </COMMON>
+            <PROPERTY>
+                <FILENAME>BM_BurfordHolly_RT.spt</FILENAME>
+            </PROPERTY>
+        </TREE>
+        <TREE>
+            <COMMON name="BM_BurfordHolly_RT_059">
+                <POSITION>53565.531250 22841.734375 4177.772461</POSITION>
+                <DIRECTION>0.000000 1.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>33.000000 33.000000 33.000000</SCALE>
+            </COMMON>
+            <PROPERTY>
+                <FILENAME>BM_BurfordHolly_RT.spt</FILENAME>
+            </PROPERTY>
+        </TREE>
+        <TREE>
+            <COMMON name="BM_BurfordHolly_RT_060">
+                <POSITION>52829.851563 23158.945313 4177.772461</POSITION>
+                <DIRECTION>0.000000 1.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>33.000000 33.000000 33.000000</SCALE>
+            </COMMON>
+            <PROPERTY>
+                <FILENAME>BM_BurfordHolly_RT.spt</FILENAME>
+            </PROPERTY>
+        </TREE>
+        <TREE>
+            <COMMON name="BM_BurfordHolly_RT_061">
+                <POSITION>52769.484375 23040.785156 4177.772461</POSITION>
+                <DIRECTION>0.000000 1.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>33.000000 33.000000 33.000000</SCALE>
+            </COMMON>
+            <PROPERTY>
+                <FILENAME>BM_BurfordHolly_RT.spt</FILENAME>
+            </PROPERTY>
+        </TREE>
+        <TREE>
+            <COMMON name="BM_BurfordHolly_RT_062">
+                <POSITION>52708.000000 23207.695313 4177.772461</POSITION>
+                <DIRECTION>0.000000 1.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>33.000000 33.000000 33.000000</SCALE>
+            </COMMON>
+            <PROPERTY>
+                <FILENAME>BM_BurfordHolly_RT.spt</FILENAME>
+            </PROPERTY>
+        </TREE>
+        <TREE>
+            <COMMON name="BM_BurfordHolly_RT_063">
+                <POSITION>51570.574219 22777.396484 4177.772461</POSITION>
+                <DIRECTION>0.000000 1.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>33.000000 33.000000 33.000000</SCALE>
+            </COMMON>
+            <PROPERTY>
+                <FILENAME>BM_BurfordHolly_RT.spt</FILENAME>
+            </PROPERTY>
+        </TREE>
+        <TREE>
+            <COMMON name="BM_BurfordHolly_RT_064">
+                <POSITION>51668.582031 22733.615234 4177.772461</POSITION>
+                <DIRECTION>0.000000 1.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>33.000000 33.000000 33.000000</SCALE>
+            </COMMON>
+            <PROPERTY>
+                <FILENAME>BM_BurfordHolly_RT.spt</FILENAME>
+            </PROPERTY>
+        </TREE>
+        <TREE>
+            <COMMON name="BM_BurfordHolly_RT_065">
+                <POSITION>51633.488281 22849.849609 4177.772461</POSITION>
+                <DIRECTION>0.000000 1.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>33.000000 33.000000 33.000000</SCALE>
+            </COMMON>
+            <PROPERTY>
+                <FILENAME>BM_BurfordHolly_RT.spt</FILENAME>
+            </PROPERTY>
+        </TREE>
+        <TREE>
+            <COMMON name="BM_BurfordHolly_RT_066">
+                <POSITION>46519.203125 15155.476563 4915.629395</POSITION>
+                <DIRECTION>0.000000 1.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>33.000000 33.000000 33.000000</SCALE>
+            </COMMON>
+            <PROPERTY>
+                <FILENAME>BM_BurfordHolly_RT.spt</FILENAME>
+            </PROPERTY>
+        </TREE>
+        <TREE>
+            <COMMON name="BM_BurfordHolly_RT_067">
+                <POSITION>46018.828125 15118.003906 4812.923340</POSITION>
+                <DIRECTION>0.000000 1.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>33.000000 33.000000 33.000000</SCALE>
+            </COMMON>
+            <PROPERTY>
+                <FILENAME>BM_BurfordHolly_RT.spt</FILENAME>
+            </PROPERTY>
+        </TREE>
+        <TREE>
+            <COMMON name="BM_BurfordHolly_RT_068">
+                <POSITION>49351.179688 16487.199219 4491.738281</POSITION>
+                <DIRECTION>0.000000 1.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>33.000000 33.000000 33.000000</SCALE>
+            </COMMON>
+            <PROPERTY>
+                <FILENAME>BM_BurfordHolly_RT.spt</FILENAME>
+            </PROPERTY>
+        </TREE>
+        <TREE>
+            <COMMON name="BM_BurfordHolly_RT_069">
+                <POSITION>48661.496094 16127.090820 4794.860352</POSITION>
+                <DIRECTION>0.000000 1.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>33.000000 33.000000 33.000000</SCALE>
+            </COMMON>
+            <PROPERTY>
+                <FILENAME>BM_BurfordHolly_RT.spt</FILENAME>
+            </PROPERTY>
+        </TREE>
+        <TREE>
+            <COMMON name="BM_BurfordHolly_RT_070">
+                <POSITION>47781.761719 15144.206055 5436.086426</POSITION>
+                <DIRECTION>0.000000 1.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>33.000000 33.000000 33.000000</SCALE>
+            </COMMON>
+            <PROPERTY>
+                <FILENAME>BM_BurfordHolly_RT.spt</FILENAME>
+            </PROPERTY>
+        </TREE>
+        <TREE>
+            <COMMON name="BM_BurfordHolly_RT_071">
+                <POSITION>48070.417969 15951.171875 4743.693848</POSITION>
+                <DIRECTION>0.000000 1.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>33.000000 33.000000 33.000000</SCALE>
+            </COMMON>
+            <PROPERTY>
+                <FILENAME>BM_BurfordHolly_RT.spt</FILENAME>
+            </PROPERTY>
+        </TREE>
+        <TREE>
+            <COMMON name="BM_BurfordHolly_RT_072">
+                <POSITION>47188.843750 15288.311523 5120.991699</POSITION>
+                <DIRECTION>0.000000 1.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>33.000000 33.000000 33.000000</SCALE>
+            </COMMON>
+            <PROPERTY>
+                <FILENAME>BM_BurfordHolly_RT.spt</FILENAME>
+            </PROPERTY>
+        </TREE>
+        <TREE>
+            <COMMON name="BM_BurfordHolly_RT_073">
+                <POSITION>47572.875000 15656.553711 4860.360840</POSITION>
+                <DIRECTION>0.000000 1.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>33.000000 33.000000 33.000000</SCALE>
+            </COMMON>
+            <PROPERTY>
+                <FILENAME>BM_BurfordHolly_RT.spt</FILENAME>
+            </PROPERTY>
+        </TREE>
+        <TREE>
+            <COMMON name="BM_BurfordHolly_RT_074">
+                <POSITION>47785.253906 14624.929688 5886.350586</POSITION>
+                <DIRECTION>0.000000 1.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>33.000000 33.000000 33.000000</SCALE>
+            </COMMON>
+            <PROPERTY>
+                <FILENAME>BM_BurfordHolly_RT.spt</FILENAME>
+            </PROPERTY>
+        </TREE>
+        <TREE>
+            <COMMON name="BM_BurfordHolly_RT_075">
+                <POSITION>45751.351563 15151.087891 3530.461914</POSITION>
+                <DIRECTION>0.000000 1.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>33.000000 33.000000 33.000000</SCALE>
+            </COMMON>
+            <PROPERTY>
+                <FILENAME>BM_BurfordHolly_RT.spt</FILENAME>
+            </PROPERTY>
+        </TREE>
+        <TREE>
+            <COMMON name="BM_BurfordHolly_RT_076">
+                <POSITION>45790.445313 16482.988281 3530.462158</POSITION>
+                <DIRECTION>0.000000 1.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>33.000000 33.000000 33.000000</SCALE>
+            </COMMON>
+            <PROPERTY>
+                <FILENAME>BM_BurfordHolly_RT.spt</FILENAME>
+            </PROPERTY>
+        </TREE>
+        <TREE>
+            <COMMON name="BM_BurfordHolly_RT_077">
+                <POSITION>45799.792969 16398.970703 3530.462158</POSITION>
+                <DIRECTION>0.000000 1.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>33.000000 33.000000 33.000000</SCALE>
+            </COMMON>
+            <PROPERTY>
+                <FILENAME>BM_BurfordHolly_RT.spt</FILENAME>
+            </PROPERTY>
+        </TREE>
+        <TREE>
+            <COMMON name="BM_BurfordHolly_RT_078">
+                <POSITION>45662.597656 16469.419922 3530.462158</POSITION>
+                <DIRECTION>0.000000 1.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>33.000000 33.000000 33.000000</SCALE>
+            </COMMON>
+            <PROPERTY>
+                <FILENAME>BM_BurfordHolly_RT.spt</FILENAME>
+            </PROPERTY>
+        </TREE>
+        <TREE>
+            <COMMON name="BM_BurfordHolly_RT_079">
+                <POSITION>45781.269531 15294.922852 3530.461914</POSITION>
+                <DIRECTION>0.000000 1.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>33.000000 33.000000 33.000000</SCALE>
+            </COMMON>
+            <PROPERTY>
+                <FILENAME>BM_BurfordHolly_RT.spt</FILENAME>
+            </PROPERTY>
+        </TREE>
+        <TREE>
+            <COMMON name="BM_BurfordHolly_RT_080">
+                <POSITION>45628.617188 15199.561523 3530.461914</POSITION>
+                <DIRECTION>0.000000 1.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>33.000000 33.000000 33.000000</SCALE>
+            </COMMON>
+            <PROPERTY>
+                <FILENAME>BM_BurfordHolly_RT.spt</FILENAME>
+            </PROPERTY>
+        </TREE>
+        <TREE>
+            <COMMON name="BM_BurfordHolly_RT_081">
+                <POSITION>46013.476563 17252.275391 5113.592285</POSITION>
+                <DIRECTION>0.000000 1.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>33.000000 33.000000 33.000000</SCALE>
+            </COMMON>
+            <PROPERTY>
+                <FILENAME>BM_BurfordHolly_RT.spt</FILENAME>
+            </PROPERTY>
+        </TREE>
+        <TREE>
+            <COMMON name="BM_BurfordHolly_RT_082">
+                <POSITION>48469.398438 18855.705078 5077.965820</POSITION>
+                <DIRECTION>0.000000 1.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>33.000000 33.000000 33.000000</SCALE>
+            </COMMON>
+            <PROPERTY>
+                <FILENAME>BM_BurfordHolly_RT.spt</FILENAME>
+            </PROPERTY>
+        </TREE>
+        <TREE>
+            <COMMON name="BM_BurfordHolly_RT_083">
+                <POSITION>46028.511719 18056.162109 5842.415527</POSITION>
+                <DIRECTION>0.000000 1.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>33.000000 33.000000 33.000000</SCALE>
+            </COMMON>
+            <PROPERTY>
+                <FILENAME>BM_BurfordHolly_RT.spt</FILENAME>
+            </PROPERTY>
+        </TREE>
+        <TREE>
+            <COMMON name="BM_BurfordHolly_RT_084">
+                <POSITION>49586.472656 19583.000000 5288.288574</POSITION>
+                <DIRECTION>0.000000 1.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>33.000000 33.000000 33.000000</SCALE>
+            </COMMON>
+            <PROPERTY>
+                <FILENAME>BM_BurfordHolly_RT.spt</FILENAME>
+            </PROPERTY>
+        </TREE>
+        <TREE>
+            <COMMON name="BM_BurfordHolly_RT_085">
+                <POSITION>50367.578125 21165.232422 5482.911621</POSITION>
+                <DIRECTION>0.000000 1.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>33.000000 33.000000 33.000000</SCALE>
+            </COMMON>
+            <PROPERTY>
+                <FILENAME>BM_BurfordHolly_RT.spt</FILENAME>
+            </PROPERTY>
+        </TREE>
+        <TREE>
+            <COMMON name="BM_BurfordHolly_RT_086">
+                <POSITION>51021.945313 22840.734375 5981.403809</POSITION>
+                <DIRECTION>0.000000 1.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>33.000000 33.000000 33.000000</SCALE>
+            </COMMON>
+            <PROPERTY>
+                <FILENAME>BM_BurfordHolly_RT.spt</FILENAME>
+            </PROPERTY>
+        </TREE>
+        <TREE>
+            <COMMON name="BM_BurfordHolly_RT_087">
+                <POSITION>49393.214844 20699.896484 6152.779785</POSITION>
+                <DIRECTION>0.000000 1.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>33.000000 33.000000 33.000000</SCALE>
+            </COMMON>
+            <PROPERTY>
+                <FILENAME>BM_BurfordHolly_RT.spt</FILENAME>
+            </PROPERTY>
+        </TREE>
+        <TREE>
+            <COMMON name="BM_BurfordHolly_RT_088">
+                <POSITION>51414.691406 23785.279297 6220.611328</POSITION>
+                <DIRECTION>0.000000 1.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>33.000000 33.000000 33.000000</SCALE>
+            </COMMON>
+            <PROPERTY>
+                <FILENAME>BM_BurfordHolly_RT.spt</FILENAME>
+            </PROPERTY>
+        </TREE>
+        <TREE>
+            <COMMON name="BM_BurfordHolly_RT_089">
+                <POSITION>50541.558594 23624.574219 6743.475098</POSITION>
+                <DIRECTION>0.000000 1.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>33.000000 33.000000 33.000000</SCALE>
+            </COMMON>
+            <PROPERTY>
+                <FILENAME>BM_BurfordHolly_RT.spt</FILENAME>
+            </PROPERTY>
+        </TREE>
+        <TREE>
+            <COMMON name="BM_BurfordHolly_RT_090">
+                <POSITION>49341.250000 21587.148438 6778.306641</POSITION>
+                <DIRECTION>0.000000 1.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>33.000000 33.000000 33.000000</SCALE>
+            </COMMON>
+            <PROPERTY>
+                <FILENAME>BM_BurfordHolly_RT.spt</FILENAME>
+            </PROPERTY>
+        </TREE>
+        <TREE>
+            <COMMON name="BM_BurfordHolly_RT_091">
+                <POSITION>47303.914063 19566.521484 6319.921387</POSITION>
+                <DIRECTION>0.000000 1.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>33.000000 33.000000 33.000000</SCALE>
+            </COMMON>
+            <PROPERTY>
+                <FILENAME>BM_BurfordHolly_RT.spt</FILENAME>
+            </PROPERTY>
+        </TREE>
+        <TREE>
+            <COMMON name="BM_BurfordHolly_RT_34">
+                <POSITION>51265.007813 17859.707031 3026.925293</POSITION>
+                <DIRECTION>0.000000 1.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>33.000000 33.000000 33.000000</SCALE>
+            </COMMON>
+            <PROPERTY>
+                <FILENAME>BM_BurfordHolly_RT.spt</FILENAME>
+            </PROPERTY>
+        </TREE>
+        <TREE>
+            <COMMON name="BM_CommonOlive_RT_001">
+                <POSITION>58042.617188 14627.434570 4424.904297</POSITION>
+                <DIRECTION>0.000000 1.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>10.661572 10.661572 10.661572</SCALE>
+            </COMMON>
+            <PROPERTY>
+                <FILENAME>BM_CommonOlive_RT.spt</FILENAME>
+            </PROPERTY>
+        </TREE>
+        <TREE>
+            <COMMON name="BM_CommonOlive_RT_002">
+                <POSITION>45256.179688 19079.574219 5985.156250</POSITION>
+                <DIRECTION>0.000000 1.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>33.000000 33.000000 33.000000</SCALE>
+            </COMMON>
+            <PROPERTY>
+                <FILENAME>BM_CommonOlive_RT.spt</FILENAME>
+            </PROPERTY>
+        </TREE>
+        <TREE>
+            <COMMON name="BM_CommonOlive_RT_003">
+                <POSITION>49034.878906 23127.285156 6606.487793</POSITION>
+                <DIRECTION>0.000000 1.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>33.000000 33.000000 33.000000</SCALE>
+            </COMMON>
+            <PROPERTY>
+                <FILENAME>BM_CommonOlive_RT.spt</FILENAME>
+            </PROPERTY>
+        </TREE>
+        <TREE>
+            <COMMON name="BM_GreenAsh_RT_001">
+                <POSITION>54476.886719 16261.431641 3510.078369</POSITION>
+                <DIRECTION>0.000000 1.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>33.000000 33.000000 33.000000</SCALE>
+            </COMMON>
+            <PROPERTY>
+                <FILENAME>BM_GreenAsh_RT.spt</FILENAME>
+            </PROPERTY>
+        </TREE>
+        <TREE>
+            <COMMON name="BM_GreenAsh_RT_004">
+                <POSITION>59895.429688 18601.216797 4886.592285</POSITION>
+                <DIRECTION>0.000000 1.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>33.000000 33.000000 33.000000</SCALE>
+            </COMMON>
+            <PROPERTY>
+                <FILENAME>BM_GreenAsh_RT.spt</FILENAME>
+            </PROPERTY>
+        </TREE>
+        <TREE>
+            <COMMON name="Grandwall_GiantRedwood_001">
+                <POSITION>48889.027344 19651.751953 5398.858398</POSITION>
+                <DIRECTION>0.000000 1.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>33.000000 33.000000 33.000000</SCALE>
+            </COMMON>
+            <PROPERTY>
+                <FILENAME>Grandwall_GiantRedwood.spt</FILENAME>
+            </PROPERTY>
+        </TREE>
+        <TREE>
+            <COMMON name="Grandwall_GiantRedwood_002">
+                <POSITION>46439.238281 18160.318359 5355.975586</POSITION>
+                <DIRECTION>0.000000 1.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>33.000000 33.000000 33.000000</SCALE>
+            </COMMON>
+            <PROPERTY>
+                <FILENAME>Grandwall_GiantRedwood.spt</FILENAME>
+            </PROPERTY>
+        </TREE>
+        <TREE>
+            <COMMON name="Grandwall_WesternRedCedar_2_001">
+                <POSITION>50842.589844 22214.658203 5374.975098</POSITION>
+                <DIRECTION>0.000000 1.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>33.000000 33.000000 33.000000</SCALE>
+            </COMMON>
+            <PROPERTY>
+                <FILENAME>Grandwall_WesternRedCedar_2.spt</FILENAME>
+            </PROPERTY>
+        </TREE>
+        <TREE>
+            <COMMON name="RH_CommonOlive_001">
+                <POSITION>58391.078125 16202.261719 4520.992676</POSITION>
+                <DIRECTION>0.309017 0.951057 0.000000</DIRECTION>
+                <UP>-0.000000 0.000000 1.000000</UP>
+                <SCALE>18.967485 18.967485 18.967485</SCALE>
+            </COMMON>
+            <PROPERTY>
+                <FILENAME>RH_CommonOlive.spt</FILENAME>
+            </PROPERTY>
+        </TREE>
+        <TREE>
+            <COMMON name="RH_CommonOlive_002">
+                <POSITION>63027.988281 13163.509766 4307.149414</POSITION>
+                <DIRECTION>0.000000 1.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>33.000000 33.000000 33.000000</SCALE>
+            </COMMON>
+            <PROPERTY>
+                <FILENAME>RH_CommonOlive.spt</FILENAME>
+            </PROPERTY>
+        </TREE>
+        <TREE>
+            <COMMON name="RH_LiveOak_RT_001">
+                <POSITION>51309.589844 20883.394531 3740.287598</POSITION>
+                <DIRECTION>0.000000 1.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>11.352956 11.352956 11.352956</SCALE>
+            </COMMON>
+            <PROPERTY>
+                <FILENAME>RH_LiveOak_RT.spt</FILENAME>
+            </PROPERTY>
+        </TREE>
+        <TREE>
+            <COMMON name="RH_LiveOak_RT_002">
+                <POSITION>61094.574219 16576.074219 5184.727539</POSITION>
+                <DIRECTION>0.000000 1.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>33.000000 33.000000 33.000000</SCALE>
+            </COMMON>
+            <PROPERTY>
+                <FILENAME>RH_LiveOak_RT.spt</FILENAME>
+            </PROPERTY>
+        </TREE>
+        <TREE>
+            <COMMON name="Rengot_GiantRedwood_001">
+                <POSITION>51416.292969 18090.052734 3036.581299</POSITION>
+                <DIRECTION>0.000000 1.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>32.022362 32.022362 32.022362</SCALE>
+            </COMMON>
+            <PROPERTY>
+                <FILENAME>Rengot_GiantRedwood.spt</FILENAME>
+            </PROPERTY>
+        </TREE>
+        <TREE>
+            <COMMON name="Riode_CommonOlive_1_001">
+                <POSITION>48744.890625 15141.824219 5284.122070</POSITION>
+                <DIRECTION>0.000000 1.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>33.000000 33.000000 33.000000</SCALE>
+            </COMMON>
+            <PROPERTY>
+                <FILENAME>Riode_CommonOlive_1.spt</FILENAME>
+            </PROPERTY>
+        </TREE>
+        <TREE>
+            <COMMON name="k_teress_CommonOlive_RT_001">
+                <POSITION>50061.152344 14359.352539 5026.588867</POSITION>
+                <DIRECTION>0.000000 1.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>33.000000 33.000000 33.000000</SCALE>
+            </COMMON>
+            <PROPERTY>
+                <FILENAME>k_teress_CommonOlive_RT.spt</FILENAME>
+            </PROPERTY>
+        </TREE>
+    </SCENE>
+</ROOT>

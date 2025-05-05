@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<XML>
+    <AddAnimation name="walk" filename="Walking.elu.ani" motion_loop_type="loop" speed="1.000000" />
+    <AddAnimation name="idle" filename="Idle.elu.ani" motion_loop_type="loop" speed="1.000000" />
+    <AddAnimation name="waving" filename="Waving.elu.ani" motion_loop_type="lastframe" speed="1.000000" />
+    <AnimationTransitions />
+</XML>

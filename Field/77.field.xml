@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="euc-kr" ?>
+<maiet>
+    <FIELDINFO zone="77" min_x="0" min_y="0" max_x="80000" max_y="80000" boundary_min_x="0" boundary_min_y="0" boundary_max_x="0" boundary_max_y="0" weather_effect="true" town="false" returnable="true" tutorial="false" qpvpnpc1="950000" qpvpnpc2="950000" qpvprebirth1="102230" qpvprebirth2="102231">
+        <BGM fieldbgm="bgm_hometown">
+            <ENVBGM dawnbgm="amb_dawn" />
+            <ENVBGM daytimebgm="amb_daytime" />
+            <ENVBGM sunsetbgm="amb_sunset" />
+            <ENVBGM nightbgm="amb_night" />
+            <ENVBGM clodybgm="amb_normal_1" />
+            <ENVBGM rainbgm="amb_rain" />
+            <ENVBGM heavyrainbgm="amb_heavy_rain" />
+            <ENVBGM heavysnowbgm="amb_heavy_snow" />
+        </BGM>
+        <SOUNDREVERB reverb="5" />
+        <Env set="default">
+            <WEATHER default="SUN">
+                <ADD weather="CLD" percent="10" />
+                <ADD weather="RNY" percent="5" />
+                <ADD weather="HRN" percent="5" />
+                <ADD weather="SNW" percent="0" />
+                <ADD weather="HSW" percent="0" />
+                <ADD weather="CLR" percent="10" />
+            </WEATHER>
+        </Env>
+        <SPAWN id="1" group="0" name="Moa1" x="54656.871094" y="13645.642578" z="3350.563232" dir_x="-0.573577" dir_y="0.819152" dir_z="0.000000" radius="0.000000" random_dir="false" enabled="true" start_time="10" respawn_time="120" roam_radius="0" roam_depth="0" combat_radius="0" color="auto">
+            <NPC id="101430" default="true" rate="10" />
+        </SPAWN>
+        <SPAWN id="2" group="0" name="Moa2" x="54499.890625" y="14040.598633" z="3347.563477" dir_x="0.838671" dir_y="0.544639" dir_z="0.000000" radius="0.000000" random_dir="false" enabled="true" start_time="10" respawn_time="120" roam_radius="0" roam_depth="0" combat_radius="0" color="auto">
+            <NPC id="109135" default="true" rate="10" />
+        </SPAWN>
+        <SPAWN id="3" group="0" name="Moa3" x="54764.101563" y="14363.591797" z="3347.563477" dir_x="0.998630" dir_y="-0.052336" dir_z="0.000000" radius="0.000000" random_dir="false" enabled="true" start_time="10" respawn_time="120" roam_radius="0" roam_depth="0" combat_radius="0" color="auto">
+            <NPC id="109135" default="true" rate="10" />
+        </SPAWN>
+        <SPAWN id="4" group="0" name="Trainer Ferrali" x="55111.500000" y="14490.217773" z="3348.183594" dir_x="0.848048" dir_y="0.529919" dir_z="0.000000" radius="0.000000" random_dir="false" enabled="true" start_time="10" respawn_time="120" roam_radius="0" roam_depth="0" combat_radius="0" color="auto">
+            <NPC id="1124" default="true" rate="10" />
+        </SPAWN>
+        <SPAWN id="5" group="0" name="Royal Guard-1" x="45713.960938" y="15500.884766" z="3533.904785" dir_x="-0.999391" dir_y="-0.034899" dir_z="0.000000" radius="0.000000" random_dir="false" enabled="true" start_time="10" respawn_time="120" roam_radius="0" roam_depth="0" combat_radius="0" color="auto">
+            <NPC id="101420" default="true" rate="10" />
+        </SPAWN>
+        <SPAWN id="6" group="0" name="Royal Guard-2" x="50882.406250" y="17094.230469" z="3096.157471" dir_x="-0.788011" dir_y="0.615662" dir_z="0.000000" radius="0.000000" random_dir="false" enabled="true" start_time="10" respawn_time="120" roam_radius="0" roam_depth="0" combat_radius="0" color="auto">
+            <NPC id="101420" default="true" rate="10" />
+        </SPAWN>
+        <SPAWN id="7" group="0" name="Royal Guard-3" x="53350.859375" y="24269.878906" z="4460.657227" dir_x="-0.087156" dir_y="-0.996195" dir_z="0.000000" radius="0.000000" random_dir="false" enabled="true" start_time="10" respawn_time="120" roam_radius="0" roam_depth="0" combat_radius="0" color="auto">
+            <NPC id="101420" default="true" rate="10" />
+        </SPAWN>
+        <SPAWN id="8" group="0" name="Royal Guard-4" x="57632.546875" y="14143.450195" z="3357.565674" dir_x="-0.999391" dir_y="0.034900" dir_z="0.000000" radius="0.000000" random_dir="false" enabled="true" start_time="10" respawn_time="120" roam_radius="0" roam_depth="0" combat_radius="0" color="auto">
+            <NPC id="101420" default="true" rate="10" />
+        </SPAWN>
+        <SPAWN id="9" group="0" name="Child" x="52120.570313" y="18172.175781" z="3070.446289" dir_x="-0.999391" dir_y="0.034900" dir_z="0.000000" radius="500.000000" random_dir="true" enabled="true" start_time="10" respawn_time="120" roam_radius="750" roam_depth="50" combat_radius="0" color="auto">
+            <NPC id="101406" default="true" rate="10" />
+        </SPAWN>
+        <SPAWN id="10" group="0" name="Villager Ashton" x="49236.222656" y="17700.583984" z="3070.447021" dir_x="-0.999391" dir_y="0.034900" dir_z="0.000000" radius="600.000000" random_dir="true" enabled="true" start_time="10" respawn_time="120" roam_radius="750" roam_depth="220" combat_radius="0" color="auto">
+            <NPC id="101229" default="true" rate="10" />
+        </SPAWN>
+        <SPAWN id="11" group="0" name="Villager Natasha" x="50874.054688" y="18295.404297" z="3070.446533" dir_x="-0.999391" dir_y="0.034900" dir_z="0.000000" radius="600.000000" random_dir="true" enabled="true" start_time="10" respawn_time="120" roam_radius="750" roam_depth="220" combat_radius="0" color="auto">
+            <NPC id="101224" default="true" rate="10" />
+        </SPAWN>
+        <SPAWN id="12" group="0" name="Villager Reina" x="54730.878906" y="17884.501953" z="3070.445801" dir_x="-0.999391" dir_y="0.034900" dir_z="0.000000" radius="50.000000" random_dir="true" enabled="true" start_time="10" respawn_time="120" roam_radius="560" roam_depth="450" combat_radius="0" color="auto">
+            <NPC id="101223" default="true" rate="10" />
+        </SPAWN>
+        <SPAWN id="14" group="0" name="Nanaki" x="57906.886719" y="17360.531250" z="6248.027832" dir_x="1.000000" dir_y="0.000000" dir_z="0.000000" radius="0.000000" random_dir="false" enabled="true" start_time="10" respawn_time="120" roam_radius="0" roam_depth="0" combat_radius="0" color="auto">
+            <NPC id="10" default="true" rate="10" />
+        </SPAWN>
+        <MARKER id="1" name="auto" x="53439.394531" y="20011.041016" z="5725.231934" dir_x="-0.000000" dir_y="-1.000000" dir_z="0.000000" random_dir="false" />
+        <MARKER id="2" name="You&apos;re Dead" x="52681.511719" y="18128.431641" z="25758.181641" dir_x="1.000000" dir_y="0.000000" dir_z="0.000000" random_dir="false" />
+        <MARKER id="3" name="Easteregg Destination" x="57934.398438" y="18110.941406" z="5251.599609" dir_x="1.000000" dir_y="0.000000" dir_z="0.000000" random_dir="false" />
+        <MARKER id="4" name="Easteregg Exit Destination" x="57610.457031" y="17741.173828" z="3964.318604" dir_x="-1.000000" dir_y="0.000000" dir_z="0.000000" random_dir="false" />
+        <SENSOR id="1" name="Exit North" x="60986.972656" y="14973.523438" z="3774.095215" radius="400.000000" enabled="true">
+            <EFFECT effect="ZoneLine" x="-278.355469" y="0.000000" z="0.000000" dir_x="1.000000" dir_y="0.000000" dir_z="0.000000" up_x="0.000000" up_y="0.000000" up_z="1.000000" scale_x="1.000000" scale_y="1.000000" scale_z="1.000000" />
+            <WARP warp_type="field" title="Move to another Field" condition="0" gate_type="auto" field="3" marker="1" />
+        </SENSOR>
+        <SENSOR id="2" name="Exit West" x="53007.984375" y="26103.619141" z="5241.050293" radius="515.000000" enabled="true">
+            <EFFECT effect="ZoneLine" x="76.589844" y="-116.898438" z="35.446289" dir_x="-0.500000" dir_y="0.866025" dir_z="0.000000" up_x="0.000000" up_y="0.000000" up_z="1.000000" scale_x="1.000000" scale_y="1.000000" scale_z="1.000000" />
+            <WARP warp_type="field" title="Move to another Field" condition="0" gate_type="auto" field="3" marker="1" />
+        </SENSOR>
+        <SENSOR id="3" name="Gate to the top of tower" x="53452.402344" y="20213.542969" z="3750.874756" radius="100.000000" enabled="true">
+            <EFFECT effect="sensor_trial_01" x="0.000000" y="-54.552734" z="0.000000" dir_x="-0.000000" dir_y="-1.000000" dir_z="0.000000" up_x="0.000000" up_y="0.000000" up_z="1.000000" scale_x="1.000000" scale_y="1.000000" scale_z="1.000000" />
+            <WARP warp_type="field" title="Move to another Field" condition="0" gate_type="manual" field="77" marker="1" />
+        </SENSOR>
+        <SENSOR id="4" name="Tp to death marker" x="52415.714844" y="26789.593750" z="5388.544434" radius="550.000000" enabled="true">
+            <WARP warp_type="field" title="Move to another Field" condition="0" gate_type="auto" field="77" marker="2" />
+        </SENSOR>
+        <SENSOR id="5" name="Tp to death marker 2" x="62009.175781" y="14183.304688" z="3774.095703" radius="350.000000" enabled="true">
+            <WARP warp_type="field" title="Move to another Field" condition="0" gate_type="auto" field="77" marker="2" />
+        </SENSOR>
+        <SENSOR id="6" name="Exit South" x="39460.042969" y="15819.854492" z="1422.223511" radius="400.000000" enabled="true">
+            <EFFECT effect="ZoneLine" x="312.832031" y="22.459961" z="0.000000" dir_x="-1.000000" dir_y="-0.000000" dir_z="0.000000" up_x="0.000000" up_y="0.000000" up_z="1.000000" scale_x="1.000000" scale_y="1.000000" scale_z="1.000000" />
+            <WARP warp_type="field" title="Move to another Field" condition="0" gate_type="auto" field="3" marker="1" />
+        </SENSOR>
+        <SENSOR id="7" name="To Easteregg" x="53911.546875" y="13437.011719" z="3893.170410" radius="100.000000" enabled="true">
+            <WARP warp_type="field" title="Move to another Field" condition="0" gate_type="auto" field="77" marker="3" />
+        </SENSOR>
+        <SENSOR id="8" name="Easteregg Exit" x="57760.609375" y="17362.560547" z="6248.027832" radius="101.897842" enabled="true">
+            <EFFECT effect="sensor_trial_01" x="0.000000" y="0.000000" z="0.000000" dir_x="-1.000000" dir_y="-0.000000" dir_z="0.000000" up_x="0.000000" up_y="0.000000" up_z="1.000000" scale_x="0.700000" scale_y="0.700000" scale_z="1.100000" />
+            <WARP warp_type="field" title="Move to another Field" condition="0" gate_type="auto" field="77" marker="4" />
+        </SENSOR>
+    </FIELDINFO>
+</maiet>

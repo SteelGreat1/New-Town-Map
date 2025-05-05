@@ -1,0 +1,5 @@
+﻿<!--Town -->
+  <SOUND type="bgm" name="bgm_hometown" filename="Data/Sound/BGM/bgm_hometown.ogg" loop="true" volume="0.4" />
+  <SOUND type="bgm" name="Top of Tower" filename="Data/Sound/BGM/castletown.ogg" loop="true" volume="0.4" />
+  <SOUND type="bgm" name="Chocobo" filename="Data/Sound/BGM/Chocobo.ogg" loop="true" volume="0.4" />
+  <SOUND type="bgm" name="Easteregg" filename="Data/Sound/BGM/easteregg.ogg" loop="true" volume="0.6" />

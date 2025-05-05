@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<GRASS numbering="1">
+    <BRUSH name="Grass01">
+        <PIECE filename="con_garden_grass_02.tga" size="75" num="1" />
+        <PIECE filename="con_garden_grass_01.tga" size="75" num="1" />
+        <PIECE filename="Eda_grass_g01.tga" size="75" num="1" />
+    </BRUSH>
+</GRASS>

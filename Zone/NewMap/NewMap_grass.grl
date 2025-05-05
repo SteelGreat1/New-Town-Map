@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT filename="NewMap_grass.dds">
+<GRASSTEXTURE uoffset="0.000000" voffset="0.000000" uwidth="0.250000" vheight="1.000000" width="256" height="256">con_garden_grass_02.tga</GRASSTEXTURE>
+<GRASSTEXTURE uoffset="0.250000" voffset="0.000000" uwidth="0.250000" vheight="1.000000" width="256" height="256">con_garden_grass_01.tga</GRASSTEXTURE>
+<GRASSTEXTURE uoffset="0.500000" voffset="0.000000" uwidth="0.125000" vheight="0.500000" width="128" height="128">Eda_grass_g01.tga</GRASSTEXTURE>
+</ROOT>

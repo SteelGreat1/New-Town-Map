@@ -1,0 +1,27 @@
+﻿  <!--NANAKI-->
+<DIALOG id="45254" text="조련사 페라리">
+  <SAY text="DIALOG_SAY_TEXT_100_1">
+    <SELECT text="DIALOG_SELECT_TEXT_100_1">
+      <SAY text="DIALOG_SAY_TEXT_100_2">
+        <SELECT text="DIALOG_SELECT_TEXT_100_2">
+          <SAY text="DIALOG_SAY_TEXT_100_3">
+            <SELECT text="DIALOG_SELECT_TEXT_100_3">
+              <SAY text="DIALOG_SAY_TEXT_100_4">
+                <SELECT text="DIALOG_SELECT_TEXT_100_4">
+                  <SAY text="DIALOG_SAY_TEXT_100_5">
+                    <SELECT text="DIALOG_SELECT_TEXT_100_5">
+                      <SAY text="DIALOG_SAY_TEXT_100_6">
+                        <SELECT text="DIALOG_SELECT_TEXT_100_6" exit="1" />
+                      </SAY>
+                    </SELECT>
+                  </SAY>
+                </SELECT>
+              </SAY>
+            </SELECT>
+          </SAY>
+        </SELECT>
+      </SAY>
+    </SELECT>
+  </SAY>
+</DIALOG>
+  <!--NANAKI-->

@@ -1,0 +1,14 @@
+﻿  <!--NANAKI-->
+  <STR key="DIALOG_SAY_TEXT_100_1" string="{ani=waving}Hey, You found my little Easter egg. I am proud of you :)" />
+  <STR key="DIALOG_SELECT_TEXT_100_1" string="-->" />
+  <STR key="DIALOG_SAY_TEXT_100_2" string="I want to give a special thanks to the whole Revo community who allowed me to do all this." />
+  <STR key="DIALOG_SELECT_TEXT_100_2" string="-->" />
+  <STR key="DIALOG_SAY_TEXT_100_3" string="But a big thanks goes to Jose for even allowing me to do this." />
+  <STR key="DIALOG_SELECT_TEXT_100_3" string="-->" />
+  <STR key="DIALOG_SAY_TEXT_100_4" string="And a special thanks to IceDrag, Spirax, LFire and all the others who participated in Gartic Phone and all the other games we played. Some of you may never read this, but I miss you guys." />
+  <STR key="DIALOG_SELECT_TEXT_100_4" string="-->" />
+  <STR key="DIALOG_SAY_TEXT_100_5" string="Oh, and one more thing." />
+  <STR key="DIALOG_SELECT_TEXT_100_5" string="-->" />
+  <STR key="DIALOG_SAY_TEXT_100_6" string="Please keep this a secret, will you? ;)" />
+  <STR key="DIALOG_SELECT_TEXT_100_6" string="{ani=waving}Bye <3." />
+  <!--NANAKI-->

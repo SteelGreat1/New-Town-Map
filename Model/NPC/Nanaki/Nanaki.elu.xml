@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<XML>
+    <MATERIALLIST>
+        <MATERIAL name="Body">
+            <DIFFUSE>14 14 14</DIFFUSE>
+            <AMBIENT>51 51 51</AMBIENT>
+            <SPECULAR>255 255 255</SPECULAR>
+            <SPECULAR_LEVEL>100.000</SPECULAR_LEVEL>
+            <GLOSSINESS>0.000</GLOSSINESS>
+            <SELFILLUSIONSCALE>0.000</SELFILLUSIONSCALE>
+            <TEXTURELIST count="1">
+                <TEXTURELAYER index="0">
+                    <DIFFUSEMAP>tester.png</DIFFUSEMAP>
+                </TEXTURELAYER>
+            </TEXTURELIST>
+        </MATERIAL>
+        <MATERIAL name="Eyes">
+            <DIFFUSE>255 255 255</DIFFUSE>
+            <AMBIENT>51 51 51</AMBIENT>
+            <SPECULAR>255 255 255</SPECULAR>
+            <SPECULAR_LEVEL>50.000</SPECULAR_LEVEL>
+            <GLOSSINESS>0.000</GLOSSINESS>
+            <SELFILLUSIONSCALE>1.000</SELFILLUSIONSCALE>
+            <TEXTURELIST count="1">
+                <TEXTURELAYER index="0">
+                    <DIFFUSEMAP>Eyes.png</DIFFUSEMAP>
+                </TEXTURELAYER>
+            </TEXTURELIST>
+        </MATERIAL>
+    </MATERIALLIST>
+    <COLLISION />
+    <USERPROPERTYLIST>
+        <USERPROPERTY node="Body" property="MapChannel:1 = UVMap" />
+        <USERPROPERTY node="Legs" property="MapChannel:1 = UVMap" />
+        <USERPROPERTY node="Robe" property="MapChannel:1 = UVMap" />
+        <USERPROPERTY node="Hands" property="MapChannel:1 = UVMap" />
+        <USERPROPERTY node="Scarf" property="MapChannel:1 = UVMap" />
+        <USERPROPERTY node="Ears" property="MapChannel:1 = UVMap" />
+        <USERPROPERTY node="Glasses" property="MapChannel:1 = UVMap" />
+        <USERPROPERTY node="Head001" property="MapChannel:1 = UVMap" />
+        <USERPROPERTY node="Hat" property="MapChannel:1 = UVMap" />
+        <USERPROPERTY node="Horns" property="MapChannel:1 = UVMap" />
+        <USERPROPERTY node="Hair" property="MapChannel:1 = UVMap" />
+    </USERPROPERTYLIST>
+</XML>

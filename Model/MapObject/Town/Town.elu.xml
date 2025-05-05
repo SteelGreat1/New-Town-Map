@@ -1,0 +1,479 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<XML>
+    <MATERIALLIST>
+        <MATERIAL name="Material #105">
+            <DIFFUSE>149 149 149</DIFFUSE>
+            <AMBIENT>149 149 149</AMBIENT>
+            <SPECULAR>229 229 229</SPECULAR>
+            <SPECULAR_LEVEL>0.000</SPECULAR_LEVEL>
+            <GLOSSINESS>10.000</GLOSSINESS>
+            <SELFILLUSIONSCALE>0.000</SELFILLUSIONSCALE>
+            <TEXTURELIST count="1">
+                <TEXTURELAYER index="0">
+                    <DIFFUSEMAP>pexels-simon-2149631640-30727548.jpg.dds</DIFFUSEMAP>
+                </TEXTURELAYER>
+            </TEXTURELIST>
+        </MATERIAL>
+        <MATERIAL name="Material #107">
+            <DIFFUSE>149 149 149</DIFFUSE>
+            <AMBIENT>149 149 149</AMBIENT>
+            <SPECULAR>229 229 229</SPECULAR>
+            <SPECULAR_LEVEL>0.000</SPECULAR_LEVEL>
+            <GLOSSINESS>10.000</GLOSSINESS>
+            <SELFILLUSIONSCALE>0.000</SELFILLUSIONSCALE>
+            <TEXTURELIST count="1">
+                <TEXTURELAYER index="0">
+                    <DIFFUSEMAP>pexels-simon-2149631640-30727548.jpg.dds</DIFFUSEMAP>
+                </TEXTURELAYER>
+            </TEXTURELIST>
+        </MATERIAL>
+        <MATERIAL name="Material #111">
+            <DIFFUSE>149 149 149</DIFFUSE>
+            <AMBIENT>149 149 149</AMBIENT>
+            <SPECULAR>229 229 229</SPECULAR>
+            <SPECULAR_LEVEL>0.000</SPECULAR_LEVEL>
+            <GLOSSINESS>10.000</GLOSSINESS>
+            <SELFILLUSIONSCALE>0.000</SELFILLUSIONSCALE>
+            <TEXTURELIST count="1">
+                <TEXTURELAYER index="0">
+                    <DIFFUSEMAP>pexels-simon-2149631640-30727548.jpg.dds</DIFFUSEMAP>
+                </TEXTURELAYER>
+            </TEXTURELIST>
+        </MATERIAL>
+        <MATERIAL name="Material #112">
+            <DIFFUSE>149 149 149</DIFFUSE>
+            <AMBIENT>149 149 149</AMBIENT>
+            <SPECULAR>229 229 229</SPECULAR>
+            <SPECULAR_LEVEL>0.000</SPECULAR_LEVEL>
+            <GLOSSINESS>10.000</GLOSSINESS>
+            <SELFILLUSIONSCALE>0.000</SELFILLUSIONSCALE>
+            <TEXTURELIST count="1">
+                <TEXTURELAYER index="0">
+                    <DIFFUSEMAP>pexels-simon-2149631640-30727548.jpg.dds</DIFFUSEMAP>
+                </TEXTURELAYER>
+            </TEXTURELIST>
+        </MATERIAL>
+        <MATERIAL name="Material #108">
+            <DIFFUSE>149 149 149</DIFFUSE>
+            <AMBIENT>149 149 149</AMBIENT>
+            <SPECULAR>229 229 229</SPECULAR>
+            <SPECULAR_LEVEL>0.000</SPECULAR_LEVEL>
+            <GLOSSINESS>10.000</GLOSSINESS>
+            <SELFILLUSIONSCALE>0.000</SELFILLUSIONSCALE>
+            <TEXTURELIST count="1">
+                <TEXTURELAYER index="0">
+                    <DIFFUSEMAP>pexels-simon-2149631640-30727548.jpg.dds</DIFFUSEMAP>
+                </TEXTURELAYER>
+            </TEXTURELIST>
+        </MATERIAL>
+        <MATERIAL name="Material #109">
+            <DIFFUSE>149 149 149</DIFFUSE>
+            <AMBIENT>149 149 149</AMBIENT>
+            <SPECULAR>229 229 229</SPECULAR>
+            <SPECULAR_LEVEL>0.000</SPECULAR_LEVEL>
+            <GLOSSINESS>10.000</GLOSSINESS>
+            <SELFILLUSIONSCALE>0.000</SELFILLUSIONSCALE>
+            <TEXTURELIST count="1">
+                <TEXTURELAYER index="0">
+                    <DIFFUSEMAP>pexels-simon-2149631640-30727548.jpg.dds</DIFFUSEMAP>
+                </TEXTURELAYER>
+            </TEXTURELIST>
+        </MATERIAL>
+        <MATERIAL name="material-011FB710-symbol">
+            <DIFFUSE>204 204 204</DIFFUSE>
+            <AMBIENT>51 51 51</AMBIENT>
+            <SPECULAR>255 255 255</SPECULAR>
+            <SPECULAR_LEVEL>50.000</SPECULAR_LEVEL>
+            <GLOSSINESS>0.000</GLOSSINESS>
+            <SELFILLUSIONSCALE>1.000</SELFILLUSIONSCALE>
+            <TEXTURELIST count="1">
+                <TEXTURELAYER index="0">
+                    <DIFFUSEMAP>material-011FB710-symbol_baseColor.png.dds</DIFFUSEMAP>
+                </TEXTURELAYER>
+            </TEXTURELIST>
+        </MATERIAL>
+        <MATERIAL name="material-0308EC46-symbol">
+            <DIFFUSE>204 204 204</DIFFUSE>
+            <AMBIENT>51 51 51</AMBIENT>
+            <SPECULAR>255 255 255</SPECULAR>
+            <SPECULAR_LEVEL>50.000</SPECULAR_LEVEL>
+            <GLOSSINESS>0.000</GLOSSINESS>
+            <SELFILLUSIONSCALE>1.000</SELFILLUSIONSCALE>
+            <TEXTURELIST count="1">
+                <TEXTURELAYER index="0">
+                    <DIFFUSEMAP>material-0308EC46-symbol_baseColor.png.dds</DIFFUSEMAP>
+                </TEXTURELAYER>
+            </TEXTURELIST>
+        </MATERIAL>
+        <MATERIAL name="material-00236F01-symbol">
+            <DIFFUSE>204 204 204</DIFFUSE>
+            <AMBIENT>51 51 51</AMBIENT>
+            <SPECULAR>255 255 255</SPECULAR>
+            <SPECULAR_LEVEL>50.000</SPECULAR_LEVEL>
+            <GLOSSINESS>0.000</GLOSSINESS>
+            <SELFILLUSIONSCALE>1.000</SELFILLUSIONSCALE>
+            <TEXTURELIST count="1">
+                <TEXTURELAYER index="0">
+                    <DIFFUSEMAP>material-00236F01-symbol_baseColor.png.dds</DIFFUSEMAP>
+                </TEXTURELAYER>
+            </TEXTURELIST>
+        </MATERIAL>
+        <MATERIAL name="material-01431F0E-symbol">
+            <DIFFUSE>204 204 204</DIFFUSE>
+            <AMBIENT>51 51 51</AMBIENT>
+            <SPECULAR>255 255 255</SPECULAR>
+            <SPECULAR_LEVEL>50.000</SPECULAR_LEVEL>
+            <GLOSSINESS>0.000</GLOSSINESS>
+            <SELFILLUSIONSCALE>1.000</SELFILLUSIONSCALE>
+            <TEXTURELIST count="1">
+                <TEXTURELAYER index="0">
+                    <DIFFUSEMAP>material-01431F0E-symbol_baseColor.png.dds</DIFFUSEMAP>
+                </TEXTURELAYER>
+            </TEXTURELIST>
+        </MATERIAL>
+        <MATERIAL name="material-03CB73CF-symbol">
+            <DIFFUSE>204 204 204</DIFFUSE>
+            <AMBIENT>51 51 51</AMBIENT>
+            <SPECULAR>255 255 255</SPECULAR>
+            <SPECULAR_LEVEL>50.000</SPECULAR_LEVEL>
+            <GLOSSINESS>0.000</GLOSSINESS>
+            <SELFILLUSIONSCALE>1.000</SELFILLUSIONSCALE>
+            <TEXTURELIST count="1">
+                <TEXTURELAYER index="0">
+                    <DIFFUSEMAP>material-03CB73CF-symbol_baseColor.png.dds</DIFFUSEMAP>
+                </TEXTURELAYER>
+            </TEXTURELIST>
+        </MATERIAL>
+        <MATERIAL name="material-01D2C254-symbol">
+            <DIFFUSE>204 204 204</DIFFUSE>
+            <AMBIENT>51 51 51</AMBIENT>
+            <SPECULAR>255 255 255</SPECULAR>
+            <SPECULAR_LEVEL>50.000</SPECULAR_LEVEL>
+            <GLOSSINESS>0.000</GLOSSINESS>
+            <SELFILLUSIONSCALE>1.000</SELFILLUSIONSCALE>
+            <TEXTURELIST count="1">
+                <TEXTURELAYER index="0">
+                    <DIFFUSEMAP>material-01D2C254-symbol_baseColor.png.dds</DIFFUSEMAP>
+                </TEXTURELAYER>
+            </TEXTURELIST>
+        </MATERIAL>
+        <MATERIAL name="material-013EE70E-symbol">
+            <DIFFUSE>204 204 204</DIFFUSE>
+            <AMBIENT>51 51 51</AMBIENT>
+            <SPECULAR>255 255 255</SPECULAR>
+            <SPECULAR_LEVEL>50.000</SPECULAR_LEVEL>
+            <GLOSSINESS>0.000</GLOSSINESS>
+            <SELFILLUSIONSCALE>1.000</SELFILLUSIONSCALE>
+            <TEXTURELIST count="1">
+                <TEXTURELAYER index="0">
+                    <DIFFUSEMAP>material-013EE70E-symbol_baseColor.png.dds</DIFFUSEMAP>
+                </TEXTURELAYER>
+            </TEXTURELIST>
+        </MATERIAL>
+        <MATERIAL name="material-03361F81-symbol">
+            <DIFFUSE>204 204 204</DIFFUSE>
+            <AMBIENT>51 51 51</AMBIENT>
+            <SPECULAR>255 255 255</SPECULAR>
+            <SPECULAR_LEVEL>50.000</SPECULAR_LEVEL>
+            <GLOSSINESS>0.000</GLOSSINESS>
+            <SELFILLUSIONSCALE>1.000</SELFILLUSIONSCALE>
+            <TEXTURELIST count="1">
+                <TEXTURELAYER index="0">
+                    <DIFFUSEMAP>material-03361F81-symbol_baseColor.png.dds</DIFFUSEMAP>
+                </TEXTURELAYER>
+            </TEXTURELIST>
+        </MATERIAL>
+        <MATERIAL name="material-03AF7CE3-symbol">
+            <DIFFUSE>204 204 204</DIFFUSE>
+            <AMBIENT>51 51 51</AMBIENT>
+            <SPECULAR>255 255 255</SPECULAR>
+            <SPECULAR_LEVEL>50.000</SPECULAR_LEVEL>
+            <GLOSSINESS>0.000</GLOSSINESS>
+            <SELFILLUSIONSCALE>1.000</SELFILLUSIONSCALE>
+            <TEXTURELIST count="1">
+                <TEXTURELAYER index="0">
+                    <DIFFUSEMAP>material-03AF7CE3-symbol_baseColor.png.dds</DIFFUSEMAP>
+                </TEXTURELAYER>
+            </TEXTURELIST>
+        </MATERIAL>
+        <MATERIAL name="material-00E2E825-symbol">
+            <DIFFUSE>204 204 204</DIFFUSE>
+            <AMBIENT>51 51 51</AMBIENT>
+            <SPECULAR>255 255 255</SPECULAR>
+            <SPECULAR_LEVEL>50.000</SPECULAR_LEVEL>
+            <GLOSSINESS>0.000</GLOSSINESS>
+            <SELFILLUSIONSCALE>1.000</SELFILLUSIONSCALE>
+            <TEXTURELIST count="1">
+                <TEXTURELAYER index="0">
+                    <DIFFUSEMAP>material-00E2E825-symbol_baseColor.png.dds</DIFFUSEMAP>
+                </TEXTURELAYER>
+            </TEXTURELIST>
+        </MATERIAL>
+        <MATERIAL name="material-03FA294F-symbol">
+            <DIFFUSE>204 204 204</DIFFUSE>
+            <AMBIENT>51 51 51</AMBIENT>
+            <SPECULAR>255 255 255</SPECULAR>
+            <SPECULAR_LEVEL>50.000</SPECULAR_LEVEL>
+            <GLOSSINESS>0.000</GLOSSINESS>
+            <SELFILLUSIONSCALE>1.000</SELFILLUSIONSCALE>
+            <TEXTURELIST count="1">
+                <TEXTURELAYER index="0">
+                    <DIFFUSEMAP>material-03FA294F-symbol_baseColor.png.dds</DIFFUSEMAP>
+                </TEXTURELAYER>
+            </TEXTURELIST>
+        </MATERIAL>
+        <MATERIAL name="material-035C177E-symbol">
+            <DIFFUSE>204 204 204</DIFFUSE>
+            <AMBIENT>51 51 51</AMBIENT>
+            <SPECULAR>255 255 255</SPECULAR>
+            <SPECULAR_LEVEL>50.000</SPECULAR_LEVEL>
+            <GLOSSINESS>0.000</GLOSSINESS>
+            <SELFILLUSIONSCALE>1.000</SELFILLUSIONSCALE>
+            <TEXTURELIST count="1">
+                <TEXTURELAYER index="0">
+                    <DIFFUSEMAP>material-035C177E-symbol_baseColor.png.dds</DIFFUSEMAP>
+                </TEXTURELAYER>
+            </TEXTURELIST>
+        </MATERIAL>
+        <MATERIAL name="material-0092BE72-symbol">
+            <DIFFUSE>204 204 204</DIFFUSE>
+            <AMBIENT>51 51 51</AMBIENT>
+            <SPECULAR>255 255 255</SPECULAR>
+            <SPECULAR_LEVEL>50.000</SPECULAR_LEVEL>
+            <GLOSSINESS>0.000</GLOSSINESS>
+            <SELFILLUSIONSCALE>1.000</SELFILLUSIONSCALE>
+            <TEXTURELIST count="1">
+                <TEXTURELAYER index="0">
+                    <DIFFUSEMAP>material-0092BE72-symbol_baseColor.png.dds</DIFFUSEMAP>
+                </TEXTURELAYER>
+            </TEXTURELIST>
+        </MATERIAL>
+        <MATERIAL name="material-012B6403-symbol">
+            <DIFFUSE>204 204 204</DIFFUSE>
+            <AMBIENT>51 51 51</AMBIENT>
+            <SPECULAR>255 255 255</SPECULAR>
+            <SPECULAR_LEVEL>50.000</SPECULAR_LEVEL>
+            <GLOSSINESS>0.000</GLOSSINESS>
+            <SELFILLUSIONSCALE>1.000</SELFILLUSIONSCALE>
+            <TEXTURELIST count="1">
+                <TEXTURELAYER index="0">
+                    <DIFFUSEMAP>material-012B6403-symbol_baseColor.png.dds</DIFFUSEMAP>
+                </TEXTURELAYER>
+            </TEXTURELIST>
+        </MATERIAL>
+        <MATERIAL name="material-0227124D-symbol">
+            <DIFFUSE>204 204 204</DIFFUSE>
+            <AMBIENT>51 51 51</AMBIENT>
+            <SPECULAR>255 255 255</SPECULAR>
+            <SPECULAR_LEVEL>50.000</SPECULAR_LEVEL>
+            <GLOSSINESS>0.000</GLOSSINESS>
+            <SELFILLUSIONSCALE>1.000</SELFILLUSIONSCALE>
+            <TEXTURELIST count="1">
+                <TEXTURELAYER index="0">
+                    <DIFFUSEMAP>material-0227124D-symbol_baseColor.png.dds</DIFFUSEMAP>
+                </TEXTURELAYER>
+            </TEXTURELIST>
+        </MATERIAL>
+        <MATERIAL name="material-001FF7E5-symbol">
+            <DIFFUSE>204 204 204</DIFFUSE>
+            <AMBIENT>51 51 51</AMBIENT>
+            <SPECULAR>255 255 255</SPECULAR>
+            <SPECULAR_LEVEL>50.000</SPECULAR_LEVEL>
+            <GLOSSINESS>0.000</GLOSSINESS>
+            <SELFILLUSIONSCALE>1.000</SELFILLUSIONSCALE>
+            <TEXTURELIST count="1">
+                <TEXTURELAYER index="0">
+                    <DIFFUSEMAP>material-001FF7E5-symbol_baseColor.png.dds</DIFFUSEMAP>
+                </TEXTURELAYER>
+            </TEXTURELIST>
+        </MATERIAL>
+        <MATERIAL name="material-025CCA8F-symbol">
+            <DIFFUSE>204 204 204</DIFFUSE>
+            <AMBIENT>51 51 51</AMBIENT>
+            <SPECULAR>255 255 255</SPECULAR>
+            <SPECULAR_LEVEL>50.000</SPECULAR_LEVEL>
+            <GLOSSINESS>0.000</GLOSSINESS>
+            <SELFILLUSIONSCALE>1.000</SELFILLUSIONSCALE>
+            <TEXTURELIST count="1">
+                <TEXTURELAYER index="0">
+                    <DIFFUSEMAP>material-025CCA8F-symbol_baseColor.png.dds</DIFFUSEMAP>
+                </TEXTURELAYER>
+            </TEXTURELIST>
+        </MATERIAL>
+        <MATERIAL name="material-023CD371-symbol">
+            <DIFFUSE>204 204 204</DIFFUSE>
+            <AMBIENT>51 51 51</AMBIENT>
+            <SPECULAR>255 255 255</SPECULAR>
+            <SPECULAR_LEVEL>50.000</SPECULAR_LEVEL>
+            <GLOSSINESS>0.000</GLOSSINESS>
+            <SELFILLUSIONSCALE>1.000</SELFILLUSIONSCALE>
+            <TEXTURELIST count="1">
+                <TEXTURELAYER index="0">
+                    <DIFFUSEMAP>material-023CD371-symbol_baseColor.png.dds</DIFFUSEMAP>
+                </TEXTURELAYER>
+            </TEXTURELIST>
+        </MATERIAL>
+        <MATERIAL name="material-0286841B-symbol">
+            <DIFFUSE>204 204 204</DIFFUSE>
+            <AMBIENT>51 51 51</AMBIENT>
+            <SPECULAR>255 255 255</SPECULAR>
+            <SPECULAR_LEVEL>50.000</SPECULAR_LEVEL>
+            <GLOSSINESS>0.000</GLOSSINESS>
+            <SELFILLUSIONSCALE>1.000</SELFILLUSIONSCALE>
+            <TEXTURELIST count="1">
+                <TEXTURELAYER index="0">
+                    <DIFFUSEMAP>material-0286841B-symbol_baseColor.png.dds</DIFFUSEMAP>
+                </TEXTURELAYER>
+            </TEXTURELIST>
+        </MATERIAL>
+        <MATERIAL name="material-035FA4BA-symbol">
+            <DIFFUSE>204 204 204</DIFFUSE>
+            <AMBIENT>51 51 51</AMBIENT>
+            <SPECULAR>255 255 255</SPECULAR>
+            <SPECULAR_LEVEL>50.000</SPECULAR_LEVEL>
+            <GLOSSINESS>0.000</GLOSSINESS>
+            <SELFILLUSIONSCALE>1.000</SELFILLUSIONSCALE>
+            <TEXTURELIST count="1">
+                <TEXTURELAYER index="0">
+                    <DIFFUSEMAP>material-035FA4BA-symbol_baseColor.png.dds</DIFFUSEMAP>
+                </TEXTURELAYER>
+            </TEXTURELIST>
+        </MATERIAL>
+        <MATERIAL name="material-021D6F96-symbol">
+            <DIFFUSE>204 204 204</DIFFUSE>
+            <AMBIENT>51 51 51</AMBIENT>
+            <SPECULAR>255 255 255</SPECULAR>
+            <SPECULAR_LEVEL>50.000</SPECULAR_LEVEL>
+            <GLOSSINESS>0.000</GLOSSINESS>
+            <SELFILLUSIONSCALE>1.000</SELFILLUSIONSCALE>
+            <TEXTURELIST count="1">
+                <TEXTURELAYER index="0">
+                    <DIFFUSEMAP>material-021D6F96-symbol_baseColor.png.dds</DIFFUSEMAP>
+                </TEXTURELAYER>
+            </TEXTURELIST>
+        </MATERIAL>
+        <MATERIAL name="material-0068D4FC-symbol">
+            <DIFFUSE>204 204 204</DIFFUSE>
+            <AMBIENT>51 51 51</AMBIENT>
+            <SPECULAR>255 255 255</SPECULAR>
+            <SPECULAR_LEVEL>50.000</SPECULAR_LEVEL>
+            <GLOSSINESS>0.000</GLOSSINESS>
+            <SELFILLUSIONSCALE>1.000</SELFILLUSIONSCALE>
+            <TEXTURELIST count="1">
+                <TEXTURELAYER index="0">
+                    <DIFFUSEMAP>material-0068D4FC-symbol_baseColor.png.dds</DIFFUSEMAP>
+                </TEXTURELAYER>
+            </TEXTURELIST>
+        </MATERIAL>
+        <MATERIAL name="material-0128B202-symbol">
+            <DIFFUSE>204 204 204</DIFFUSE>
+            <AMBIENT>51 51 51</AMBIENT>
+            <SPECULAR>255 255 255</SPECULAR>
+            <SPECULAR_LEVEL>50.000</SPECULAR_LEVEL>
+            <GLOSSINESS>0.000</GLOSSINESS>
+            <SELFILLUSIONSCALE>1.000</SELFILLUSIONSCALE>
+            <TEXTURELIST count="1">
+                <TEXTURELAYER index="0">
+                    <DIFFUSEMAP>material-0128B202-symbol_baseColor.png.dds</DIFFUSEMAP>
+                </TEXTURELAYER>
+            </TEXTURELIST>
+        </MATERIAL>
+        <MATERIAL name="material-02BAA4F5-symbol">
+            <DIFFUSE>204 204 204</DIFFUSE>
+            <AMBIENT>51 51 51</AMBIENT>
+            <SPECULAR>255 255 255</SPECULAR>
+            <SPECULAR_LEVEL>50.000</SPECULAR_LEVEL>
+            <GLOSSINESS>0.000</GLOSSINESS>
+            <SELFILLUSIONSCALE>1.000</SELFILLUSIONSCALE>
+            <TEXTURELIST count="1">
+                <TEXTURELAYER index="0">
+                    <DIFFUSEMAP>material-02BAA4F5-symbol_baseColor.png.dds</DIFFUSEMAP>
+                </TEXTURELAYER>
+            </TEXTURELIST>
+        </MATERIAL>
+        <MATERIAL name="material-025CCA8F-symbol.001">
+            <DIFFUSE>204 204 204</DIFFUSE>
+            <AMBIENT>51 51 51</AMBIENT>
+            <SPECULAR>255 255 255</SPECULAR>
+            <SPECULAR_LEVEL>50.000</SPECULAR_LEVEL>
+            <GLOSSINESS>0.000</GLOSSINESS>
+            <SELFILLUSIONSCALE>1.000</SELFILLUSIONSCALE>
+            <TEXTURELIST count="1">
+                <TEXTURELAYER index="0">
+                    <DIFFUSEMAP>material-025CCA8F-symbol_baseColor.png.dds</DIFFUSEMAP>
+                </TEXTURELAYER>
+            </TEXTURELIST>
+        </MATERIAL>
+        <MATERIAL name="Material #110">
+            <DIFFUSE>149 149 149</DIFFUSE>
+            <AMBIENT>149 149 149</AMBIENT>
+            <SPECULAR>229 229 229</SPECULAR>
+            <SPECULAR_LEVEL>0.000</SPECULAR_LEVEL>
+            <GLOSSINESS>10.000</GLOSSINESS>
+            <SELFILLUSIONSCALE>0.000</SELFILLUSIONSCALE>
+            <TEXTURELIST count="1">
+                <TEXTURELAYER index="0">
+                    <DIFFUSEMAP>pexels-simon-2149631640-30727548.jpg.dds</DIFFUSEMAP>
+                </TEXTURELAYER>
+            </TEXTURELIST>
+        </MATERIAL>
+        <MATERIAL name="Material #106">
+            <DIFFUSE>149 149 149</DIFFUSE>
+            <AMBIENT>149 149 149</AMBIENT>
+            <SPECULAR>229 229 229</SPECULAR>
+            <SPECULAR_LEVEL>0.000</SPECULAR_LEVEL>
+            <GLOSSINESS>10.000</GLOSSINESS>
+            <SELFILLUSIONSCALE>0.000</SELFILLUSIONSCALE>
+            <TEXTURELIST count="1">
+                <TEXTURELAYER index="0">
+                    <DIFFUSEMAP>pexels-simon-2149631640-30727548.jpg.dds</DIFFUSEMAP>
+                </TEXTURELAYER>
+            </TEXTURELIST>
+        </MATERIAL>
+    </MATERIALLIST>
+    <COLLISION />
+    <USERPROPERTYLIST>
+        <USERPROPERTY node="Circle.002" property="MapChannel:1 = UVMap" />
+        <USERPROPERTY node="Circle.002" property="MapChannel:2 = automap" />
+        <USERPROPERTY node="Circle.004" property="MapChannel:1 = UVMap" />
+        <USERPROPERTY node="Circle.004" property="MapChannel:2 = automap" />
+        <USERPROPERTY node="Circle.005" property="MapChannel:1 = UVMap" />
+        <USERPROPERTY node="Circle.005" property="MapChannel:2 = automap" />
+        <USERPROPERTY node="Circle.006" property="MapChannel:1 = UVMap" />
+        <USERPROPERTY node="Circle.006" property="MapChannel:2 = automap" />
+        <USERPROPERTY node="Circle.007" property="MapChannel:1 = UVMap" />
+        <USERPROPERTY node="Circle.007" property="MapChannel:2 = automap" />
+        <USERPROPERTY node="Circle.008" property="MapChannel:1 = UVMap" />
+        <USERPROPERTY node="Circle.008" property="MapChannel:2 = automap" />
+        <USERPROPERTY node="material-011FB710-symbol" property="MapChannel:1 = UVMap" />
+        <USERPROPERTY node="material-0308EC46-symbol" property="MapChannel:1 = UVMap" />
+        <USERPROPERTY node="material-00236F01-symbol" property="MapChannel:1 = UVMap" />
+        <USERPROPERTY node="material-01431F0E-symbol" property="MapChannel:1 = UVMap" />
+        <USERPROPERTY node="material-03CB73CF-symbol" property="MapChannel:1 = UVMap" />
+        <USERPROPERTY node="material-01D2C254-symbol" property="MapChannel:1 = UVMap" />
+        <USERPROPERTY node="material-013EE70E-symbol" property="MapChannel:1 = UVMap" />
+        <USERPROPERTY node="material-03361F81-symbol" property="MapChannel:1 = UVMap" />
+        <USERPROPERTY node="material-03AF7CE3-symbol" property="MapChannel:1 = UVMap" />
+        <USERPROPERTY node="material-00E2E825-symbol" property="MapChannel:1 = UVMap" />
+        <USERPROPERTY node="material-03FA294F-symbol" property="MapChannel:1 = UVMap" />
+        <USERPROPERTY node="material-035C177E-symbol" property="MapChannel:1 = UVMap" />
+        <USERPROPERTY node="material-0092BE72-symbol" property="MapChannel:1 = UVMap" />
+        <USERPROPERTY node="material-012B6403-symbol" property="MapChannel:1 = UVMap" />
+        <USERPROPERTY node="material-0227124D-symbol" property="MapChannel:1 = UVMap" />
+        <USERPROPERTY node="material-001FF7E5-symbol" property="MapChannel:1 = UVMap" />
+        <USERPROPERTY node="material-025CCA8F-symbol" property="MapChannel:1 = UVMap" />
+        <USERPROPERTY node="material-025CCA8F-symbol.001" property="MapChannel:1 = UVMap" />
+        <USERPROPERTY node="material-023CD371-symbol" property="MapChannel:1 = UVMap" />
+        <USERPROPERTY node="material-0286841B-symbol" property="MapChannel:1 = UVMap" />
+        <USERPROPERTY node="material-035FA4BA-symbol" property="MapChannel:1 = UVMap" />
+        <USERPROPERTY node="material-021D6F96-symbol" property="MapChannel:1 = UVMap" />
+        <USERPROPERTY node="material-0068D4FC-symbol" property="MapChannel:1 = UVMap" />
+        <USERPROPERTY node="material-0128B202-symbol" property="MapChannel:1 = UVMap" />
+        <USERPROPERTY node="material-02BAA4F5-symbol" property="MapChannel:1 = UVMap" />
+        <USERPROPERTY node="material-025CCA8F-symbol.002" property="MapChannel:1 = UVMap" />
+        <USERPROPERTY node="Circle.001" property="MapChannel:1 = UVMap" />
+        <USERPROPERTY node="Circle.001" property="MapChannel:2 = automap" />
+        <USERPROPERTY node="Circle.003" property="MapChannel:1 = UVMap" />
+        <USERPROPERTY node="Circle.003" property="MapChannel:2 = automap" />
+    </USERPROPERTYLIST>
+</XML>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<XML>
+    <Animation name="waving">
+        <EVENT name="sh_sound" frame="0" param1="cat_fs_1" param2="" param3="" unconditional="false" />
+    </Animation>
+</XML>

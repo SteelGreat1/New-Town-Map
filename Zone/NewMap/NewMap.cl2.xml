@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<TABLE size="43">
+    <MATERIAL name="Material #105" id="0" />
+    <MATERIAL name="Material #107" id="1" />
+    <MATERIAL name="Material #111" id="2" />
+    <MATERIAL name="Material #112" id="3" />
+    <MATERIAL name="Material #108" id="4" />
+    <MATERIAL name="Material #109" id="5" />
+    <MATERIAL name="material-011FB710-symbol" id="6" />
+    <MATERIAL name="material-0308EC46-symbol" id="7" />
+    <MATERIAL name="material-00236F01-symbol" id="8" />
+    <MATERIAL name="material-01431F0E-symbol" id="9" />
+    <MATERIAL name="material-03CB73CF-symbol" id="10" />
+    <MATERIAL name="material-01D2C254-symbol" id="11" />
+    <MATERIAL name="material-013EE70E-symbol" id="12" />
+    <MATERIAL name="material-03361F81-symbol" id="13" />
+    <MATERIAL name="material-03AF7CE3-symbol" id="14" />
+    <MATERIAL name="material-00E2E825-symbol" id="15" />
+    <MATERIAL name="material-03FA294F-symbol" id="16" />
+    <MATERIAL name="material-035C177E-symbol" id="17" />
+    <MATERIAL name="material-0092BE72-symbol" id="18" />
+    <MATERIAL name="material-012B6403-symbol" id="19" />
+    <MATERIAL name="material-0227124D-symbol" id="20" />
+    <MATERIAL name="material-001FF7E5-symbol" id="21" />
+    <MATERIAL name="material-025CCA8F-symbol" id="22" />
+    <MATERIAL name="material-023CD371-symbol" id="23" />
+    <MATERIAL name="material-0286841B-symbol" id="24" />
+    <MATERIAL name="material-035FA4BA-symbol" id="25" />
+    <MATERIAL name="material-021D6F96-symbol" id="26" />
+    <MATERIAL name="material-0068D4FC-symbol" id="27" />
+    <MATERIAL name="material-0128B202-symbol" id="28" />
+    <MATERIAL name="material-02BAA4F5-symbol" id="29" />
+    <MATERIAL name="material-025CCA8F-symbol.001" id="30" />
+    <MATERIAL name="Material #110" id="31" />
+    <MATERIAL name="Material #106" id="32" />
+    <MATERIAL name="ingen_streetlight_k01_mt_met" id="33" />
+    <MATERIAL name="at_Ingen_Memoboard_jj01_mask_mt_met" id="34" />
+    <MATERIAL name="Ingen_Memoboard_jj01_mt_wod" id="35" />
+    <MATERIAL name="ingen_parasol_jj01_mt_clo" id="36" />
+    <MATERIAL name="Catacomb_of_damned_East_tombpath_treasureRoom_box_mt_wod" id="37" />
+    <MATERIAL name="ingen_Plantpot_jj101_mt_con" id="38" />
+    <MATERIAL name="ingen_rguild_bulleye_gh01_mt_pnt" id="39" />
+    <MATERIAL name="ingen_rguild_birdge_gh01_mt_wod" id="40" />
+    <MATERIAL name="mt_eda_bone_01_mt_wod" id="41" />
+    <MATERIAL name="ritz_griffin02_mt_con" id="42" />
+</TABLE>
