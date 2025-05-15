@@ -11,3 +11,7 @@
 15.05.2025
 
 -Added Easter Egg
+
+16.05.2025
+
+-Used DXT-5 compression to reduce filesize on all textures from ~250mb to ~75mb
