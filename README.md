@@ -7,3 +7,7 @@
 -Added Loading Screen
 
 -Attempted to add (but failed) to add Minimap
+
+15.05.2025
+
+-Added Easter Egg
