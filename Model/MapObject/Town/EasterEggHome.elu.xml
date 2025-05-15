@@ -1,0 +1,1044 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<XML>
+    <MATERIALLIST>
+        <MATERIAL name="Stuff Etc">
+            <DIFFUSE>204 204 204</DIFFUSE>
+            <AMBIENT>51 51 51</AMBIENT>
+            <SPECULAR>255 255 255</SPECULAR>
+            <SPECULAR_LEVEL>50.000</SPECULAR_LEVEL>
+            <GLOSSINESS>0.000</GLOSSINESS>
+            <SELFILLUSIONSCALE>2.051</SELFILLUSIONSCALE>
+            <TEXTURELIST count="2">
+                <TEXTURELAYER index="0">
+                    <DIFFUSEMAP>Required.png.dds</DIFFUSEMAP>
+                </TEXTURELAYER>
+                <TEXTURELAYER index="1">
+                    <SELFILLUMINATIONMAP>Required_Emission.png.dds</SELFILLUMINATIONMAP>
+                </TEXTURELAYER>
+            </TEXTURELIST>
+        </MATERIAL>
+        <MATERIAL name="Floor Carpet">
+            <DIFFUSE>204 204 204</DIFFUSE>
+            <AMBIENT>51 51 51</AMBIENT>
+            <SPECULAR>255 255 255</SPECULAR>
+            <SPECULAR_LEVEL>50.000</SPECULAR_LEVEL>
+            <GLOSSINESS>0.000</GLOSSINESS>
+            <SELFILLUSIONSCALE>1.000</SELFILLUSIONSCALE>
+            <TEXTURELIST count="1">
+                <TEXTURELAYER index="0">
+                    <DIFFUSEMAP>Floor_Carpet.png.dds</DIFFUSEMAP>
+                </TEXTURELAYER>
+            </TEXTURELIST>
+        </MATERIAL>
+        <MATERIAL name="Lowrider">
+            <DIFFUSE>204 204 204</DIFFUSE>
+            <AMBIENT>51 51 51</AMBIENT>
+            <SPECULAR>255 255 255</SPECULAR>
+            <SPECULAR_LEVEL>50.000</SPECULAR_LEVEL>
+            <GLOSSINESS>0.000</GLOSSINESS>
+            <SELFILLUSIONSCALE>1.000</SELFILLUSIONSCALE>
+            <TEXTURELIST count="1">
+                <TEXTURELAYER index="0">
+                    <DIFFUSEMAP>Lowrider.png.dds</DIFFUSEMAP>
+                </TEXTURELAYER>
+            </TEXTURELIST>
+        </MATERIAL>
+        <MATERIAL name="Chairiel">
+            <DIFFUSE>204 204 204</DIFFUSE>
+            <AMBIENT>51 51 51</AMBIENT>
+            <SPECULAR>255 255 255</SPECULAR>
+            <SPECULAR_LEVEL>50.000</SPECULAR_LEVEL>
+            <GLOSSINESS>0.000</GLOSSINESS>
+            <SELFILLUSIONSCALE>1.000</SELFILLUSIONSCALE>
+            <TEXTURELIST count="1">
+                <TEXTURELAYER index="0">
+                    <DIFFUSEMAP>Chairiel.png.dds</DIFFUSEMAP>
+                </TEXTURELAYER>
+            </TEXTURELIST>
+        </MATERIAL>
+        <MATERIAL name="Chair 2">
+            <DIFFUSE>204 204 204</DIFFUSE>
+            <AMBIENT>51 51 51</AMBIENT>
+            <SPECULAR>255 255 255</SPECULAR>
+            <SPECULAR_LEVEL>50.000</SPECULAR_LEVEL>
+            <GLOSSINESS>0.000</GLOSSINESS>
+            <SELFILLUSIONSCALE>1.000</SELFILLUSIONSCALE>
+            <TEXTURELIST count="1">
+                <TEXTURELAYER index="0">
+                    <DIFFUSEMAP>Chair_2.png.dds</DIFFUSEMAP>
+                </TEXTURELAYER>
+            </TEXTURELIST>
+        </MATERIAL>
+        <MATERIAL name="Corridor Drawer">
+            <DIFFUSE>204 204 204</DIFFUSE>
+            <AMBIENT>51 51 51</AMBIENT>
+            <SPECULAR>255 255 255</SPECULAR>
+            <SPECULAR_LEVEL>50.000</SPECULAR_LEVEL>
+            <GLOSSINESS>0.000</GLOSSINESS>
+            <SELFILLUSIONSCALE>1.000</SELFILLUSIONSCALE>
+            <TEXTURELIST count="1">
+                <TEXTURELAYER index="0">
+                    <DIFFUSEMAP>Corridor_Drawer.png.dds</DIFFUSEMAP>
+                </TEXTURELAYER>
+            </TEXTURELIST>
+        </MATERIAL>
+        <MATERIAL name="Fridge">
+            <DIFFUSE>204 204 204</DIFFUSE>
+            <AMBIENT>51 51 51</AMBIENT>
+            <SPECULAR>255 255 255</SPECULAR>
+            <SPECULAR_LEVEL>50.000</SPECULAR_LEVEL>
+            <GLOSSINESS>0.000</GLOSSINESS>
+            <SELFILLUSIONSCALE>1.000</SELFILLUSIONSCALE>
+            <TEXTURELIST count="1">
+                <TEXTURELAYER index="0">
+                    <DIFFUSEMAP>Fridge.png.dds</DIFFUSEMAP>
+                </TEXTURELAYER>
+            </TEXTURELIST>
+        </MATERIAL>
+        <MATERIAL name="Big Table">
+            <DIFFUSE>204 204 204</DIFFUSE>
+            <AMBIENT>51 51 51</AMBIENT>
+            <SPECULAR>255 255 255</SPECULAR>
+            <SPECULAR_LEVEL>50.000</SPECULAR_LEVEL>
+            <GLOSSINESS>0.000</GLOSSINESS>
+            <SELFILLUSIONSCALE>1.000</SELFILLUSIONSCALE>
+            <TEXTURELIST count="1">
+                <TEXTURELAYER index="0">
+                    <DIFFUSEMAP>Big_Table.png.dds</DIFFUSEMAP>
+                </TEXTURELAYER>
+            </TEXTURELIST>
+        </MATERIAL>
+        <MATERIAL name="Living Room Pictures">
+            <DIFFUSE>204 204 204</DIFFUSE>
+            <AMBIENT>51 51 51</AMBIENT>
+            <SPECULAR>255 255 255</SPECULAR>
+            <SPECULAR_LEVEL>50.000</SPECULAR_LEVEL>
+            <GLOSSINESS>0.000</GLOSSINESS>
+            <SELFILLUSIONSCALE>1.000</SELFILLUSIONSCALE>
+            <TEXTURELIST count="1">
+                <TEXTURELAYER index="0">
+                    <DIFFUSEMAP>Living_Room_Pictures.png.dds</DIFFUSEMAP>
+                </TEXTURELAYER>
+            </TEXTURELIST>
+        </MATERIAL>
+        <MATERIAL name="Bathroom Shower Curtains">
+            <DIFFUSE>204 204 204</DIFFUSE>
+            <AMBIENT>51 51 51</AMBIENT>
+            <SPECULAR>255 255 255</SPECULAR>
+            <SPECULAR_LEVEL>50.000</SPECULAR_LEVEL>
+            <GLOSSINESS>0.000</GLOSSINESS>
+            <SELFILLUSIONSCALE>1.000</SELFILLUSIONSCALE>
+            <TEXTURELIST count="1">
+                <TEXTURELAYER index="0">
+                    <DIFFUSEMAP>Bathroom_Shower_Curtains.png.dds</DIFFUSEMAP>
+                </TEXTURELAYER>
+            </TEXTURELIST>
+        </MATERIAL>
+        <MATERIAL name="Bathroom Required">
+            <DIFFUSE>204 204 204</DIFFUSE>
+            <AMBIENT>51 51 51</AMBIENT>
+            <SPECULAR>255 255 255</SPECULAR>
+            <SPECULAR_LEVEL>50.000</SPECULAR_LEVEL>
+            <GLOSSINESS>0.000</GLOSSINESS>
+            <SELFILLUSIONSCALE>1.000</SELFILLUSIONSCALE>
+            <TEXTURELIST count="1">
+                <TEXTURELAYER index="0">
+                    <DIFFUSEMAP>Bathroom_Required.png.dds</DIFFUSEMAP>
+                </TEXTURELAYER>
+            </TEXTURELIST>
+        </MATERIAL>
+        <MATERIAL name="Bin">
+            <DIFFUSE>204 204 204</DIFFUSE>
+            <AMBIENT>51 51 51</AMBIENT>
+            <SPECULAR>255 255 255</SPECULAR>
+            <SPECULAR_LEVEL>50.000</SPECULAR_LEVEL>
+            <GLOSSINESS>0.000</GLOSSINESS>
+            <SELFILLUSIONSCALE>1.000</SELFILLUSIONSCALE>
+            <TEXTURELIST count="1">
+                <TEXTURELAYER index="0">
+                    <DIFFUSEMAP>Trash_Bin.png.dds</DIFFUSEMAP>
+                </TEXTURELAYER>
+            </TEXTURELIST>
+        </MATERIAL>
+        <MATERIAL name="BookShelf">
+            <DIFFUSE>204 204 204</DIFFUSE>
+            <AMBIENT>51 51 51</AMBIENT>
+            <SPECULAR>255 255 255</SPECULAR>
+            <SPECULAR_LEVEL>50.000</SPECULAR_LEVEL>
+            <GLOSSINESS>0.000</GLOSSINESS>
+            <SELFILLUSIONSCALE>1.000</SELFILLUSIONSCALE>
+            <TEXTURELIST count="1">
+                <TEXTURELAYER index="0">
+                    <DIFFUSEMAP>BookShelf.png.dds</DIFFUSEMAP>
+                </TEXTURELAYER>
+            </TEXTURELIST>
+        </MATERIAL>
+        <MATERIAL name="Deltarune Carpet">
+            <DIFFUSE>204 204 204</DIFFUSE>
+            <AMBIENT>51 51 51</AMBIENT>
+            <SPECULAR>255 255 255</SPECULAR>
+            <SPECULAR_LEVEL>50.000</SPECULAR_LEVEL>
+            <GLOSSINESS>0.000</GLOSSINESS>
+            <SELFILLUSIONSCALE>1.000</SELFILLUSIONSCALE>
+            <TEXTURELIST count="1">
+                <TEXTURELAYER index="0">
+                    <DIFFUSEMAP>Carpet.png.dds</DIFFUSEMAP>
+                </TEXTURELAYER>
+            </TEXTURELIST>
+        </MATERIAL>
+        <MATERIAL name="Poster ETC">
+            <DIFFUSE>204 204 204</DIFFUSE>
+            <AMBIENT>51 51 51</AMBIENT>
+            <SPECULAR>255 255 255</SPECULAR>
+            <SPECULAR_LEVEL>50.000</SPECULAR_LEVEL>
+            <GLOSSINESS>0.000</GLOSSINESS>
+            <SELFILLUSIONSCALE>1.000</SELFILLUSIONSCALE>
+            <TEXTURELIST count="1">
+                <TEXTURELAYER index="0">
+                    <DIFFUSEMAP>Poster_etc.png.dds</DIFFUSEMAP>
+                </TEXTURELAYER>
+            </TEXTURELIST>
+        </MATERIAL>
+        <MATERIAL name="Door.001">
+            <DIFFUSE>204 204 204</DIFFUSE>
+            <AMBIENT>51 51 51</AMBIENT>
+            <SPECULAR>255 255 255</SPECULAR>
+            <SPECULAR_LEVEL>50.000</SPECULAR_LEVEL>
+            <GLOSSINESS>0.000</GLOSSINESS>
+            <SELFILLUSIONSCALE>1.000</SELFILLUSIONSCALE>
+            <TEXTURELIST count="1">
+                <TEXTURELAYER index="0">
+                    <DIFFUSEMAP>Door.png.dds</DIFFUSEMAP>
+                </TEXTURELAYER>
+            </TEXTURELIST>
+        </MATERIAL>
+        <MATERIAL name="Door.002">
+            <DIFFUSE>204 204 204</DIFFUSE>
+            <AMBIENT>51 51 51</AMBIENT>
+            <SPECULAR>255 255 255</SPECULAR>
+            <SPECULAR_LEVEL>50.000</SPECULAR_LEVEL>
+            <GLOSSINESS>0.000</GLOSSINESS>
+            <SELFILLUSIONSCALE>1.000</SELFILLUSIONSCALE>
+            <TEXTURELIST count="1">
+                <TEXTURELAYER index="0">
+                    <DIFFUSEMAP>Door.png.dds</DIFFUSEMAP>
+                </TEXTURELAYER>
+            </TEXTURELIST>
+        </MATERIAL>
+        <MATERIAL name="Door">
+            <DIFFUSE>204 204 204</DIFFUSE>
+            <AMBIENT>51 51 51</AMBIENT>
+            <SPECULAR>255 255 255</SPECULAR>
+            <SPECULAR_LEVEL>50.000</SPECULAR_LEVEL>
+            <GLOSSINESS>0.000</GLOSSINESS>
+            <SELFILLUSIONSCALE>1.000</SELFILLUSIONSCALE>
+            <TEXTURELIST count="1">
+                <TEXTURELAYER index="0">
+                    <DIFFUSEMAP>Door.png.dds</DIFFUSEMAP>
+                </TEXTURELAYER>
+            </TEXTURELIST>
+        </MATERIAL>
+        <MATERIAL name="Door Exit">
+            <DIFFUSE>204 204 204</DIFFUSE>
+            <AMBIENT>51 51 51</AMBIENT>
+            <SPECULAR>255 255 255</SPECULAR>
+            <SPECULAR_LEVEL>50.000</SPECULAR_LEVEL>
+            <GLOSSINESS>0.000</GLOSSINESS>
+            <SELFILLUSIONSCALE>1.000</SELFILLUSIONSCALE>
+            <TEXTURELIST count="1">
+                <TEXTURELAYER index="0">
+                    <DIFFUSEMAP>Door_Exit.png.dds</DIFFUSEMAP>
+                </TEXTURELAYER>
+            </TEXTURELIST>
+        </MATERIAL>
+        <MATERIAL name="Drawer New">
+            <DIFFUSE>204 204 204</DIFFUSE>
+            <AMBIENT>51 51 51</AMBIENT>
+            <SPECULAR>255 255 255</SPECULAR>
+            <SPECULAR_LEVEL>50.000</SPECULAR_LEVEL>
+            <GLOSSINESS>0.000</GLOSSINESS>
+            <SELFILLUSIONSCALE>1.000</SELFILLUSIONSCALE>
+            <TEXTURELIST count="1">
+                <TEXTURELAYER index="0">
+                    <DIFFUSEMAP>Drawer_New_Base_Texture_2.png.dds</DIFFUSEMAP>
+                </TEXTURELAYER>
+            </TEXTURELIST>
+        </MATERIAL>
+        <MATERIAL name="Drawer New Asriel">
+            <DIFFUSE>204 204 204</DIFFUSE>
+            <AMBIENT>51 51 51</AMBIENT>
+            <SPECULAR>255 255 255</SPECULAR>
+            <SPECULAR_LEVEL>50.000</SPECULAR_LEVEL>
+            <GLOSSINESS>0.000</GLOSSINESS>
+            <SELFILLUSIONSCALE>1.000</SELFILLUSIONSCALE>
+            <TEXTURELIST count="1">
+                <TEXTURELAYER index="0">
+                    <DIFFUSEMAP>Drawer_Asriel_New_Base_Texture.png.dds</DIFFUSEMAP>
+                </TEXTURELAYER>
+            </TEXTURELIST>
+        </MATERIAL>
+        <MATERIAL name="Wallpaper Room Lower Part">
+            <DIFFUSE>204 204 204</DIFFUSE>
+            <AMBIENT>51 51 51</AMBIENT>
+            <SPECULAR>255 255 255</SPECULAR>
+            <SPECULAR_LEVEL>50.000</SPECULAR_LEVEL>
+            <GLOSSINESS>0.000</GLOSSINESS>
+            <SELFILLUSIONSCALE>1.000</SELFILLUSIONSCALE>
+            <TEXTURELIST count="1">
+                <TEXTURELAYER index="0">
+                    <DIFFUSEMAP>Wallpaper_Room_Lower_Part.png.dds</DIFFUSEMAP>
+                </TEXTURELAYER>
+            </TEXTURELIST>
+        </MATERIAL>
+        <MATERIAL name="Wallpaper Room 64">
+            <DIFFUSE>204 204 204</DIFFUSE>
+            <AMBIENT>51 51 51</AMBIENT>
+            <SPECULAR>255 255 255</SPECULAR>
+            <SPECULAR_LEVEL>50.000</SPECULAR_LEVEL>
+            <GLOSSINESS>0.000</GLOSSINESS>
+            <SELFILLUSIONSCALE>1.000</SELFILLUSIONSCALE>
+            <TEXTURELIST count="1">
+                <TEXTURELAYER index="0">
+                    <DIFFUSEMAP>Wallpaper_Room_64.png.dds</DIFFUSEMAP>
+                </TEXTURELAYER>
+            </TEXTURELIST>
+        </MATERIAL>
+        <MATERIAL name="Wooden Floor">
+            <DIFFUSE>204 204 204</DIFFUSE>
+            <AMBIENT>51 51 51</AMBIENT>
+            <SPECULAR>255 255 255</SPECULAR>
+            <SPECULAR_LEVEL>50.000</SPECULAR_LEVEL>
+            <GLOSSINESS>0.000</GLOSSINESS>
+            <SELFILLUSIONSCALE>1.000</SELFILLUSIONSCALE>
+            <TEXTURELIST count="1">
+                <TEXTURELAYER index="0">
+                    <DIFFUSEMAP>Wooden_Floor.png.dds</DIFFUSEMAP>
+                </TEXTURELAYER>
+            </TEXTURELIST>
+        </MATERIAL>
+        <MATERIAL name="Bed">
+            <DIFFUSE>204 204 204</DIFFUSE>
+            <AMBIENT>51 51 51</AMBIENT>
+            <SPECULAR>255 255 255</SPECULAR>
+            <SPECULAR_LEVEL>50.000</SPECULAR_LEVEL>
+            <GLOSSINESS>0.000</GLOSSINESS>
+            <SELFILLUSIONSCALE>1.000</SELFILLUSIONSCALE>
+            <TEXTURELIST count="1">
+                <TEXTURELAYER index="0">
+                    <DIFFUSEMAP>Bed_Base_Color.png.dds</DIFFUSEMAP>
+                </TEXTURELAYER>
+            </TEXTURELIST>
+        </MATERIAL>
+        <MATERIAL name="Cupboard">
+            <DIFFUSE>204 204 204</DIFFUSE>
+            <AMBIENT>51 51 51</AMBIENT>
+            <SPECULAR>255 255 255</SPECULAR>
+            <SPECULAR_LEVEL>50.000</SPECULAR_LEVEL>
+            <GLOSSINESS>0.000</GLOSSINESS>
+            <SELFILLUSIONSCALE>1.000</SELFILLUSIONSCALE>
+            <TEXTURELIST count="1">
+                <TEXTURELAYER index="0">
+                    <DIFFUSEMAP>Cupboard.png.dds</DIFFUSEMAP>
+                </TEXTURELAYER>
+            </TEXTURELIST>
+        </MATERIAL>
+        <MATERIAL name="Television">
+            <DIFFUSE>204 204 204</DIFFUSE>
+            <AMBIENT>51 51 51</AMBIENT>
+            <SPECULAR>255 255 255</SPECULAR>
+            <SPECULAR_LEVEL>50.000</SPECULAR_LEVEL>
+            <GLOSSINESS>0.000</GLOSSINESS>
+            <SELFILLUSIONSCALE>1.000</SELFILLUSIONSCALE>
+            <TEXTURELIST count="1">
+                <TEXTURELAYER index="0">
+                    <DIFFUSEMAP>Television.png.dds</DIFFUSEMAP>
+                </TEXTURELAYER>
+            </TEXTURELIST>
+        </MATERIAL>
+        <MATERIAL name="TV Frames">
+            <DIFFUSE>204 204 204</DIFFUSE>
+            <AMBIENT>51 51 51</AMBIENT>
+            <SPECULAR>255 255 255</SPECULAR>
+            <SPECULAR_LEVEL>50.000</SPECULAR_LEVEL>
+            <GLOSSINESS>0.000</GLOSSINESS>
+            <SELFILLUSIONSCALE>1.000</SELFILLUSIONSCALE>
+            <TEXTURELIST count="1">
+                <TEXTURELAYER index="0">
+                    <DIFFUSEMAP>ComfyUI_temp_rtkrp_00134_.png.dds</DIFFUSEMAP>
+                </TEXTURELAYER>
+            </TEXTURELIST>
+        </MATERIAL>
+        <MATERIAL name="Roof">
+            <DIFFUSE>204 204 204</DIFFUSE>
+            <AMBIENT>51 51 51</AMBIENT>
+            <SPECULAR>255 255 255</SPECULAR>
+            <SPECULAR_LEVEL>50.000</SPECULAR_LEVEL>
+            <GLOSSINESS>0.000</GLOSSINESS>
+            <SELFILLUSIONSCALE>1.000</SELFILLUSIONSCALE>
+            <TEXTURELIST count="1">
+                <TEXTURELAYER index="0">
+                    <DIFFUSEMAP>Roof.png.dds</DIFFUSEMAP>
+                </TEXTURELAYER>
+            </TEXTURELIST>
+        </MATERIAL>
+        <MATERIAL name="Round Carpet">
+            <DIFFUSE>204 204 204</DIFFUSE>
+            <AMBIENT>51 51 51</AMBIENT>
+            <SPECULAR>255 255 255</SPECULAR>
+            <SPECULAR_LEVEL>50.000</SPECULAR_LEVEL>
+            <GLOSSINESS>0.000</GLOSSINESS>
+            <SELFILLUSIONSCALE>1.000</SELFILLUSIONSCALE>
+            <TEXTURELIST count="1">
+                <TEXTURELAYER index="0">
+                    <DIFFUSEMAP>Carpet_Round.png.dds</DIFFUSEMAP>
+                </TEXTURELAYER>
+            </TEXTURELIST>
+        </MATERIAL>
+        <MATERIAL name="Wallpaper 2">
+            <DIFFUSE>204 204 204</DIFFUSE>
+            <AMBIENT>51 51 51</AMBIENT>
+            <SPECULAR>255 255 255</SPECULAR>
+            <SPECULAR_LEVEL>50.000</SPECULAR_LEVEL>
+            <GLOSSINESS>0.000</GLOSSINESS>
+            <SELFILLUSIONSCALE>1.000</SELFILLUSIONSCALE>
+            <TEXTURELIST count="1">
+                <TEXTURELAYER index="0">
+                    <DIFFUSEMAP>Wallpaper_2.png.dds</DIFFUSEMAP>
+                </TEXTURELAYER>
+            </TEXTURELIST>
+        </MATERIAL>
+        <MATERIAL name="Wallpaper 2 Lower Part">
+            <DIFFUSE>204 204 204</DIFFUSE>
+            <AMBIENT>51 51 51</AMBIENT>
+            <SPECULAR>255 255 255</SPECULAR>
+            <SPECULAR_LEVEL>50.000</SPECULAR_LEVEL>
+            <GLOSSINESS>0.000</GLOSSINESS>
+            <SELFILLUSIONSCALE>1.000</SELFILLUSIONSCALE>
+            <TEXTURELIST count="1">
+                <TEXTURELAYER index="0">
+                    <DIFFUSEMAP>Wallpaper_2_Lower_Part.png.dds</DIFFUSEMAP>
+                </TEXTURELAYER>
+            </TEXTURELIST>
+        </MATERIAL>
+        <MATERIAL name="Window 2">
+            <DIFFUSE>204 204 204</DIFFUSE>
+            <AMBIENT>51 51 51</AMBIENT>
+            <SPECULAR>255 255 255</SPECULAR>
+            <SPECULAR_LEVEL>50.000</SPECULAR_LEVEL>
+            <GLOSSINESS>0.000</GLOSSINESS>
+            <SELFILLUSIONSCALE>2.234</SELFILLUSIONSCALE>
+            <TEXTURELIST count="2">
+                <TEXTURELAYER index="0">
+                    <DIFFUSEMAP>Window_2_Emission1.png.dds</DIFFUSEMAP>
+                </TEXTURELAYER>
+                <TEXTURELAYER index="1">
+                    <SELFILLUMINATIONMAP>Window_2_Emission.1.png.dds</SELFILLUMINATIONMAP>
+                </TEXTURELAYER>
+            </TEXTURELIST>
+        </MATERIAL>
+        <MATERIAL name="Mirror">
+            <DIFFUSE>204 204 204</DIFFUSE>
+            <AMBIENT>51 51 51</AMBIENT>
+            <SPECULAR>255 255 255</SPECULAR>
+            <SPECULAR_LEVEL>50.000</SPECULAR_LEVEL>
+            <GLOSSINESS>0.000</GLOSSINESS>
+            <SELFILLUSIONSCALE>1.000</SELFILLUSIONSCALE>
+            <TEXTURELIST count="1">
+                <TEXTURELAYER index="0">
+                    <DIFFUSEMAP>Mirror.png.dds</DIFFUSEMAP>
+                </TEXTURELAYER>
+            </TEXTURELIST>
+        </MATERIAL>
+        <MATERIAL name="Bathroom Sink">
+            <DIFFUSE>204 204 204</DIFFUSE>
+            <AMBIENT>51 51 51</AMBIENT>
+            <SPECULAR>255 255 255</SPECULAR>
+            <SPECULAR_LEVEL>50.000</SPECULAR_LEVEL>
+            <GLOSSINESS>0.000</GLOSSINESS>
+            <SELFILLUSIONSCALE>1.000</SELFILLUSIONSCALE>
+            <TEXTURELIST count="1">
+                <TEXTURELAYER index="0">
+                    <DIFFUSEMAP>Bathroom_Sink.png.dds</DIFFUSEMAP>
+                </TEXTURELAYER>
+            </TEXTURELIST>
+        </MATERIAL>
+        <MATERIAL name="Upper">
+            <DIFFUSE>204 204 204</DIFFUSE>
+            <AMBIENT>51 51 51</AMBIENT>
+            <SPECULAR>255 255 255</SPECULAR>
+            <SPECULAR_LEVEL>50.000</SPECULAR_LEVEL>
+            <GLOSSINESS>0.000</GLOSSINESS>
+            <SELFILLUSIONSCALE>1.000</SELFILLUSIONSCALE>
+            <TEXTURELIST count="1">
+                <TEXTURELAYER index="0">
+                    <DIFFUSEMAP>Oven_Upper.png.dds</DIFFUSEMAP>
+                </TEXTURELAYER>
+            </TEXTURELIST>
+        </MATERIAL>
+        <MATERIAL name="Bathroom Toilet">
+            <DIFFUSE>204 204 204</DIFFUSE>
+            <AMBIENT>51 51 51</AMBIENT>
+            <SPECULAR>255 255 255</SPECULAR>
+            <SPECULAR_LEVEL>50.000</SPECULAR_LEVEL>
+            <GLOSSINESS>0.000</GLOSSINESS>
+            <SELFILLUSIONSCALE>1.000</SELFILLUSIONSCALE>
+            <TEXTURELIST count="1">
+                <TEXTURELAYER index="0">
+                    <DIFFUSEMAP>Bathroom_Toilet.png.dds</DIFFUSEMAP>
+                </TEXTURELAYER>
+            </TEXTURELIST>
+        </MATERIAL>
+        <MATERIAL name="Window">
+            <DIFFUSE>204 204 204</DIFFUSE>
+            <AMBIENT>51 51 51</AMBIENT>
+            <SPECULAR>255 255 255</SPECULAR>
+            <SPECULAR_LEVEL>50.000</SPECULAR_LEVEL>
+            <GLOSSINESS>0.000</GLOSSINESS>
+            <SELFILLUSIONSCALE>2.234</SELFILLUSIONSCALE>
+            <TEXTURELIST count="2">
+                <TEXTURELAYER index="0">
+                    <DIFFUSEMAP>Window_Emission1.png.dds</DIFFUSEMAP>
+                </TEXTURELAYER>
+                <TEXTURELAYER index="1">
+                    <SELFILLUMINATIONMAP>Window_Emission.png.dds</SELFILLUMINATIONMAP>
+                </TEXTURELAYER>
+            </TEXTURELIST>
+        </MATERIAL>
+        <MATERIAL name="Asriel Bed">
+            <DIFFUSE>204 204 204</DIFFUSE>
+            <AMBIENT>51 51 51</AMBIENT>
+            <SPECULAR>255 255 255</SPECULAR>
+            <SPECULAR_LEVEL>50.000</SPECULAR_LEVEL>
+            <GLOSSINESS>0.000</GLOSSINESS>
+            <SELFILLUSIONSCALE>1.000</SELFILLUSIONSCALE>
+            <TEXTURELIST count="1">
+                <TEXTURELAYER index="0">
+                    <DIFFUSEMAP>Asriel_Base_Color.png.dds</DIFFUSEMAP>
+                </TEXTURELAYER>
+            </TEXTURELIST>
+        </MATERIAL>
+        <MATERIAL name="Bathroom Bath">
+            <DIFFUSE>204 204 204</DIFFUSE>
+            <AMBIENT>51 51 51</AMBIENT>
+            <SPECULAR>255 255 255</SPECULAR>
+            <SPECULAR_LEVEL>50.000</SPECULAR_LEVEL>
+            <GLOSSINESS>0.000</GLOSSINESS>
+            <SELFILLUSIONSCALE>1.000</SELFILLUSIONSCALE>
+            <TEXTURELIST count="1">
+                <TEXTURELAYER index="0">
+                    <DIFFUSEMAP>Bathroom_Bath.png.dds</DIFFUSEMAP>
+                </TEXTURELAYER>
+            </TEXTURELIST>
+        </MATERIAL>
+        <MATERIAL name="Bathroom Ceiling">
+            <DIFFUSE>204 204 204</DIFFUSE>
+            <AMBIENT>51 51 51</AMBIENT>
+            <SPECULAR>255 255 255</SPECULAR>
+            <SPECULAR_LEVEL>50.000</SPECULAR_LEVEL>
+            <GLOSSINESS>0.000</GLOSSINESS>
+            <SELFILLUSIONSCALE>1.000</SELFILLUSIONSCALE>
+            <TEXTURELIST count="1">
+                <TEXTURELAYER index="0">
+                    <DIFFUSEMAP>Bathroom_Ceiling.png.dds</DIFFUSEMAP>
+                </TEXTURELAYER>
+            </TEXTURELIST>
+        </MATERIAL>
+        <MATERIAL name="Bathroom Floor">
+            <DIFFUSE>204 204 204</DIFFUSE>
+            <AMBIENT>51 51 51</AMBIENT>
+            <SPECULAR>255 255 255</SPECULAR>
+            <SPECULAR_LEVEL>50.000</SPECULAR_LEVEL>
+            <GLOSSINESS>0.000</GLOSSINESS>
+            <SELFILLUSIONSCALE>1.000</SELFILLUSIONSCALE>
+            <TEXTURELIST count="1">
+                <TEXTURELAYER index="0">
+                    <DIFFUSEMAP>Bathroom_Tile.png.dds</DIFFUSEMAP>
+                </TEXTURELAYER>
+            </TEXTURELIST>
+        </MATERIAL>
+        <MATERIAL name="Bathroom Window">
+            <DIFFUSE>204 204 204</DIFFUSE>
+            <AMBIENT>51 51 51</AMBIENT>
+            <SPECULAR>255 255 255</SPECULAR>
+            <SPECULAR_LEVEL>50.000</SPECULAR_LEVEL>
+            <GLOSSINESS>0.000</GLOSSINESS>
+            <SELFILLUSIONSCALE>2.234</SELFILLUSIONSCALE>
+            <TEXTURELIST count="2">
+                <TEXTURELAYER index="0">
+                    <DIFFUSEMAP>Window_2_Emission1_—_Bathroom.png.dds</DIFFUSEMAP>
+                </TEXTURELAYER>
+                <TEXTURELAYER index="1">
+                    <SELFILLUMINATIONMAP>Window_2_Emission.png.dds</SELFILLUMINATIONMAP>
+                </TEXTURELAYER>
+            </TEXTURELIST>
+        </MATERIAL>
+        <MATERIAL name="Bathroom Wall Tile Lower">
+            <DIFFUSE>204 204 204</DIFFUSE>
+            <AMBIENT>51 51 51</AMBIENT>
+            <SPECULAR>255 255 255</SPECULAR>
+            <SPECULAR_LEVEL>50.000</SPECULAR_LEVEL>
+            <GLOSSINESS>0.000</GLOSSINESS>
+            <SELFILLUSIONSCALE>1.000</SELFILLUSIONSCALE>
+            <TEXTURELIST count="1">
+                <TEXTURELAYER index="0">
+                    <DIFFUSEMAP>Bathroom__Wall_Tile_Lower.png.dds</DIFFUSEMAP>
+                </TEXTURELAYER>
+            </TEXTURELIST>
+        </MATERIAL>
+        <MATERIAL name="Bathroom Wall Tile 2 Lower">
+            <DIFFUSE>204 204 204</DIFFUSE>
+            <AMBIENT>51 51 51</AMBIENT>
+            <SPECULAR>255 255 255</SPECULAR>
+            <SPECULAR_LEVEL>50.000</SPECULAR_LEVEL>
+            <GLOSSINESS>0.000</GLOSSINESS>
+            <SELFILLUSIONSCALE>1.000</SELFILLUSIONSCALE>
+            <TEXTURELIST count="1">
+                <TEXTURELAYER index="0">
+                    <DIFFUSEMAP>Bathroom_Wall_Tile_2_lower.png.dds</DIFFUSEMAP>
+                </TEXTURELAYER>
+            </TEXTURELIST>
+        </MATERIAL>
+        <MATERIAL name="Bathroom Wall Tile 2">
+            <DIFFUSE>204 204 204</DIFFUSE>
+            <AMBIENT>51 51 51</AMBIENT>
+            <SPECULAR>255 255 255</SPECULAR>
+            <SPECULAR_LEVEL>50.000</SPECULAR_LEVEL>
+            <GLOSSINESS>0.000</GLOSSINESS>
+            <SELFILLUSIONSCALE>1.000</SELFILLUSIONSCALE>
+            <TEXTURELIST count="1">
+                <TEXTURELAYER index="0">
+                    <DIFFUSEMAP>Bathroom_Wall_Tile_2.png.dds</DIFFUSEMAP>
+                </TEXTURELAYER>
+            </TEXTURELIST>
+        </MATERIAL>
+        <MATERIAL name="Bathroom Wall Tile">
+            <DIFFUSE>204 204 204</DIFFUSE>
+            <AMBIENT>51 51 51</AMBIENT>
+            <SPECULAR>255 255 255</SPECULAR>
+            <SPECULAR_LEVEL>50.000</SPECULAR_LEVEL>
+            <GLOSSINESS>0.000</GLOSSINESS>
+            <SELFILLUSIONSCALE>1.000</SELFILLUSIONSCALE>
+            <TEXTURELIST count="1">
+                <TEXTURELAYER index="0">
+                    <DIFFUSEMAP>Bathroom__Wall_Tile.png.dds</DIFFUSEMAP>
+                </TEXTURELAYER>
+            </TEXTURELIST>
+        </MATERIAL>
+        <MATERIAL name="Box">
+            <DIFFUSE>204 204 204</DIFFUSE>
+            <AMBIENT>51 51 51</AMBIENT>
+            <SPECULAR>255 255 255</SPECULAR>
+            <SPECULAR_LEVEL>50.000</SPECULAR_LEVEL>
+            <GLOSSINESS>0.000</GLOSSINESS>
+            <SELFILLUSIONSCALE>1.000</SELFILLUSIONSCALE>
+            <TEXTURELIST count="1">
+                <TEXTURELAYER index="0">
+                    <DIFFUSEMAP>Box.png.dds</DIFFUSEMAP>
+                </TEXTURELAYER>
+            </TEXTURELIST>
+        </MATERIAL>
+        <MATERIAL name="Corridor Carpet">
+            <DIFFUSE>204 204 204</DIFFUSE>
+            <AMBIENT>51 51 51</AMBIENT>
+            <SPECULAR>255 255 255</SPECULAR>
+            <SPECULAR_LEVEL>50.000</SPECULAR_LEVEL>
+            <GLOSSINESS>0.000</GLOSSINESS>
+            <SELFILLUSIONSCALE>1.000</SELFILLUSIONSCALE>
+            <TEXTURELIST count="1">
+                <TEXTURELAYER index="0">
+                    <DIFFUSEMAP>Corridor_Carpet_Ends.png.dds</DIFFUSEMAP>
+                </TEXTURELAYER>
+            </TEXTURELIST>
+        </MATERIAL>
+        <MATERIAL name="Corridor Carpet Middle">
+            <DIFFUSE>204 204 204</DIFFUSE>
+            <AMBIENT>51 51 51</AMBIENT>
+            <SPECULAR>255 255 255</SPECULAR>
+            <SPECULAR_LEVEL>50.000</SPECULAR_LEVEL>
+            <GLOSSINESS>0.000</GLOSSINESS>
+            <SELFILLUSIONSCALE>1.000</SELFILLUSIONSCALE>
+            <TEXTURELIST count="1">
+                <TEXTURELAYER index="0">
+                    <DIFFUSEMAP>Corridor_Carpet_Middle.png.dds</DIFFUSEMAP>
+                </TEXTURELAYER>
+            </TEXTURELIST>
+        </MATERIAL>
+        <MATERIAL name="Drawer New Asriel.001">
+            <DIFFUSE>204 204 204</DIFFUSE>
+            <AMBIENT>51 51 51</AMBIENT>
+            <SPECULAR>255 255 255</SPECULAR>
+            <SPECULAR_LEVEL>50.000</SPECULAR_LEVEL>
+            <GLOSSINESS>0.000</GLOSSINESS>
+            <SELFILLUSIONSCALE>1.000</SELFILLUSIONSCALE>
+            <TEXTURELIST count="1">
+                <TEXTURELAYER index="0">
+                    <DIFFUSEMAP>Drawer_Asriel_New_Base_Texture.png.dds</DIFFUSEMAP>
+                </TEXTURELAYER>
+            </TEXTURELIST>
+        </MATERIAL>
+        <MATERIAL name="Picture3.001">
+            <DIFFUSE>204 204 204</DIFFUSE>
+            <AMBIENT>51 51 51</AMBIENT>
+            <SPECULAR>255 255 255</SPECULAR>
+            <SPECULAR_LEVEL>50.000</SPECULAR_LEVEL>
+            <GLOSSINESS>0.000</GLOSSINESS>
+            <SELFILLUSIONSCALE>1.000</SELFILLUSIONSCALE>
+            <TEXTURELIST count="1">
+                <TEXTURELAYER index="0">
+                    <DIFFUSEMAP>Screenshot_1.jpg.dds</DIFFUSEMAP>
+                </TEXTURELAYER>
+            </TEXTURELIST>
+        </MATERIAL>
+        <MATERIAL name="Drawer New Asriel.002">
+            <DIFFUSE>204 204 204</DIFFUSE>
+            <AMBIENT>51 51 51</AMBIENT>
+            <SPECULAR>255 255 255</SPECULAR>
+            <SPECULAR_LEVEL>50.000</SPECULAR_LEVEL>
+            <GLOSSINESS>0.000</GLOSSINESS>
+            <SELFILLUSIONSCALE>1.000</SELFILLUSIONSCALE>
+            <TEXTURELIST count="1">
+                <TEXTURELAYER index="0">
+                    <DIFFUSEMAP>Drawer_Asriel_New_Base_Texture.png.dds</DIFFUSEMAP>
+                </TEXTURELAYER>
+            </TEXTURELIST>
+        </MATERIAL>
+        <MATERIAL name="Picture5">
+            <DIFFUSE>204 204 204</DIFFUSE>
+            <AMBIENT>51 51 51</AMBIENT>
+            <SPECULAR>255 255 255</SPECULAR>
+            <SPECULAR_LEVEL>50.000</SPECULAR_LEVEL>
+            <GLOSSINESS>0.000</GLOSSINESS>
+            <SELFILLUSIONSCALE>1.000</SELFILLUSIONSCALE>
+            <TEXTURELIST count="1">
+                <TEXTURELAYER index="0">
+                    <DIFFUSEMAP>Screenshot_7.jpg.dds</DIFFUSEMAP>
+                </TEXTURELAYER>
+            </TEXTURELIST>
+        </MATERIAL>
+        <MATERIAL name="Corridor Picture">
+            <DIFFUSE>204 204 204</DIFFUSE>
+            <AMBIENT>51 51 51</AMBIENT>
+            <SPECULAR>255 255 255</SPECULAR>
+            <SPECULAR_LEVEL>50.000</SPECULAR_LEVEL>
+            <GLOSSINESS>0.000</GLOSSINESS>
+            <SELFILLUSIONSCALE>1.000</SELFILLUSIONSCALE>
+            <TEXTURELIST count="1">
+                <TEXTURELAYER index="0">
+                    <DIFFUSEMAP>Corridor_Picture.png.dds</DIFFUSEMAP>
+                </TEXTURELAYER>
+            </TEXTURELIST>
+        </MATERIAL>
+        <MATERIAL name="Image2">
+            <DIFFUSE>204 204 204</DIFFUSE>
+            <AMBIENT>51 51 51</AMBIENT>
+            <SPECULAR>255 255 255</SPECULAR>
+            <SPECULAR_LEVEL>50.000</SPECULAR_LEVEL>
+            <GLOSSINESS>0.000</GLOSSINESS>
+            <SELFILLUSIONSCALE>1.000</SELFILLUSIONSCALE>
+            <TEXTURELIST count="1">
+                <TEXTURELAYER index="0">
+                    <DIFFUSEMAP>Screenshot_5.jpg.dds</DIFFUSEMAP>
+                </TEXTURELAYER>
+            </TEXTURELIST>
+        </MATERIAL>
+        <MATERIAL name="Image1">
+            <DIFFUSE>204 204 204</DIFFUSE>
+            <AMBIENT>51 51 51</AMBIENT>
+            <SPECULAR>255 255 255</SPECULAR>
+            <SPECULAR_LEVEL>50.000</SPECULAR_LEVEL>
+            <GLOSSINESS>0.000</GLOSSINESS>
+            <SELFILLUSIONSCALE>1.000</SELFILLUSIONSCALE>
+            <TEXTURELIST count="1">
+                <TEXTURELAYER index="0">
+                    <DIFFUSEMAP>Screenshot_4.jpg.dds</DIFFUSEMAP>
+                </TEXTURELAYER>
+            </TEXTURELIST>
+        </MATERIAL>
+        <MATERIAL name="Computer Table">
+            <DIFFUSE>204 204 204</DIFFUSE>
+            <AMBIENT>51 51 51</AMBIENT>
+            <SPECULAR>255 255 255</SPECULAR>
+            <SPECULAR_LEVEL>50.000</SPECULAR_LEVEL>
+            <GLOSSINESS>0.000</GLOSSINESS>
+            <SELFILLUSIONSCALE>1.000</SELFILLUSIONSCALE>
+            <TEXTURELIST count="1">
+                <TEXTURELAYER index="0">
+                    <DIFFUSEMAP>Computer_Table.png.dds</DIFFUSEMAP>
+                </TEXTURELAYER>
+            </TEXTURELIST>
+        </MATERIAL>
+        <MATERIAL name="Gaming">
+            <DIFFUSE>204 204 204</DIFFUSE>
+            <AMBIENT>51 51 51</AMBIENT>
+            <SPECULAR>255 255 255</SPECULAR>
+            <SPECULAR_LEVEL>50.000</SPECULAR_LEVEL>
+            <GLOSSINESS>0.000</GLOSSINESS>
+            <SELFILLUSIONSCALE>1.000</SELFILLUSIONSCALE>
+            <TEXTURELIST count="1">
+                <TEXTURELAYER index="0">
+                    <DIFFUSEMAP>RaiderZ_2025-02-23_01-07-52.jpg.dds</DIFFUSEMAP>
+                </TEXTURELAYER>
+            </TEXTURELIST>
+        </MATERIAL>
+        <MATERIAL name="Picture8">
+            <DIFFUSE>204 204 204</DIFFUSE>
+            <AMBIENT>51 51 51</AMBIENT>
+            <SPECULAR>255 255 255</SPECULAR>
+            <SPECULAR_LEVEL>50.000</SPECULAR_LEVEL>
+            <GLOSSINESS>0.000</GLOSSINESS>
+            <SELFILLUSIONSCALE>1.000</SELFILLUSIONSCALE>
+            <TEXTURELIST count="1">
+                <TEXTURELAYER index="0">
+                    <DIFFUSEMAP>Screenshot_8.jpg.dds</DIFFUSEMAP>
+                </TEXTURELAYER>
+            </TEXTURELIST>
+        </MATERIAL>
+        <MATERIAL name="Picture4">
+            <DIFFUSE>204 204 204</DIFFUSE>
+            <AMBIENT>51 51 51</AMBIENT>
+            <SPECULAR>255 255 255</SPECULAR>
+            <SPECULAR_LEVEL>50.000</SPECULAR_LEVEL>
+            <GLOSSINESS>0.000</GLOSSINESS>
+            <SELFILLUSIONSCALE>1.000</SELFILLUSIONSCALE>
+            <TEXTURELIST count="1">
+                <TEXTURELAYER index="0">
+                    <DIFFUSEMAP>Screenshot_2.jpg.dds</DIFFUSEMAP>
+                </TEXTURELAYER>
+            </TEXTURELIST>
+        </MATERIAL>
+        <MATERIAL name="Picture">
+            <DIFFUSE>204 204 204</DIFFUSE>
+            <AMBIENT>51 51 51</AMBIENT>
+            <SPECULAR>255 255 255</SPECULAR>
+            <SPECULAR_LEVEL>50.000</SPECULAR_LEVEL>
+            <GLOSSINESS>0.000</GLOSSINESS>
+            <SELFILLUSIONSCALE>1.000</SELFILLUSIONSCALE>
+            <TEXTURELIST count="1">
+                <TEXTURELAYER index="0">
+                    <DIFFUSEMAP>Screenshot_3.jpg.dds</DIFFUSEMAP>
+                </TEXTURELAYER>
+            </TEXTURELIST>
+        </MATERIAL>
+        <MATERIAL name="Drawer New Asriel.003">
+            <DIFFUSE>204 204 204</DIFFUSE>
+            <AMBIENT>51 51 51</AMBIENT>
+            <SPECULAR>255 255 255</SPECULAR>
+            <SPECULAR_LEVEL>50.000</SPECULAR_LEVEL>
+            <GLOSSINESS>0.000</GLOSSINESS>
+            <SELFILLUSIONSCALE>1.000</SELFILLUSIONSCALE>
+            <TEXTURELIST count="1">
+                <TEXTURELAYER index="0">
+                    <DIFFUSEMAP>Drawer_Asriel_New_Base_Texture.png.dds</DIFFUSEMAP>
+                </TEXTURELAYER>
+            </TEXTURELIST>
+        </MATERIAL>
+        <MATERIAL name="Picture6">
+            <DIFFUSE>204 204 204</DIFFUSE>
+            <AMBIENT>51 51 51</AMBIENT>
+            <SPECULAR>255 255 255</SPECULAR>
+            <SPECULAR_LEVEL>50.000</SPECULAR_LEVEL>
+            <GLOSSINESS>0.000</GLOSSINESS>
+            <SELFILLUSIONSCALE>1.000</SELFILLUSIONSCALE>
+            <TEXTURELIST count="1">
+                <TEXTURELAYER index="0">
+                    <DIFFUSEMAP>Screenshot_6.jpg.dds</DIFFUSEMAP>
+                </TEXTURELAYER>
+            </TEXTURELIST>
+        </MATERIAL>
+        <MATERIAL name="Corridor Picture.001">
+            <DIFFUSE>204 204 204</DIFFUSE>
+            <AMBIENT>51 51 51</AMBIENT>
+            <SPECULAR>255 255 255</SPECULAR>
+            <SPECULAR_LEVEL>50.000</SPECULAR_LEVEL>
+            <GLOSSINESS>0.000</GLOSSINESS>
+            <SELFILLUSIONSCALE>1.000</SELFILLUSIONSCALE>
+            <TEXTURELIST count="1">
+                <TEXTURELAYER index="0">
+                    <DIFFUSEMAP>Corridor_Picture.png.dds</DIFFUSEMAP>
+                </TEXTURELAYER>
+            </TEXTURELIST>
+        </MATERIAL>
+        <MATERIAL name="Image2.001">
+            <DIFFUSE>204 204 204</DIFFUSE>
+            <AMBIENT>51 51 51</AMBIENT>
+            <SPECULAR>255 255 255</SPECULAR>
+            <SPECULAR_LEVEL>50.000</SPECULAR_LEVEL>
+            <GLOSSINESS>0.000</GLOSSINESS>
+            <SELFILLUSIONSCALE>1.000</SELFILLUSIONSCALE>
+            <TEXTURELIST count="1">
+                <TEXTURELAYER index="0">
+                    <DIFFUSEMAP>Screenshot_8.jpg.dds</DIFFUSEMAP>
+                </TEXTURELAYER>
+            </TEXTURELIST>
+        </MATERIAL>
+        <MATERIAL name="Corridor Picture.002">
+            <DIFFUSE>204 204 204</DIFFUSE>
+            <AMBIENT>51 51 51</AMBIENT>
+            <SPECULAR>255 255 255</SPECULAR>
+            <SPECULAR_LEVEL>50.000</SPECULAR_LEVEL>
+            <GLOSSINESS>0.000</GLOSSINESS>
+            <SELFILLUSIONSCALE>1.000</SELFILLUSIONSCALE>
+            <TEXTURELIST count="1">
+                <TEXTURELAYER index="0">
+                    <DIFFUSEMAP>Corridor_Picture.png.dds</DIFFUSEMAP>
+                </TEXTURELAYER>
+            </TEXTURELIST>
+        </MATERIAL>
+        <MATERIAL name="Image2.002">
+            <DIFFUSE>204 204 204</DIFFUSE>
+            <AMBIENT>51 51 51</AMBIENT>
+            <SPECULAR>255 255 255</SPECULAR>
+            <SPECULAR_LEVEL>50.000</SPECULAR_LEVEL>
+            <GLOSSINESS>0.000</GLOSSINESS>
+            <SELFILLUSIONSCALE>1.000</SELFILLUSIONSCALE>
+            <TEXTURELIST count="1">
+                <TEXTURELAYER index="0">
+                    <DIFFUSEMAP>RaiderZ_2024-11-09_18-07-29.jpg.dds</DIFFUSEMAP>
+                </TEXTURELAYER>
+            </TEXTURELIST>
+        </MATERIAL>
+    </MATERIALLIST>
+    <COLLISION />
+    <USERPROPERTYLIST>
+        <USERPROPERTY node="Photo.001_Drawer New Asriel_0.001" property="MapChannel:1 = UVMap" />
+        <USERPROPERTY node="Photo.001_Drawer New Asriel_0.002" property="MapChannel:1 = UVMap" />
+        <USERPROPERTY node="Carpet Tile Room.001_Stuff Etc_0" property="MapChannel:1 = UVMap" />
+        <USERPROPERTY node="Carpet Tile Room.001_Floor Carpet_0" property="MapChannel:1 = UVMap" />
+        <USERPROPERTY node="Cart_Lowrider_0" property="MapChannel:1 = UVMap" />
+        <USERPROPERTY node="Chairiel_Chairiel_0" property="MapChannel:1 = UVMap" />
+        <USERPROPERTY node="Chairiel.001_Chair 2_0" property="MapChannel:1 = UVMap" />
+        <USERPROPERTY node="Chairiel.002_Chair 2_0" property="MapChannel:1 = UVMap" />
+        <USERPROPERTY node="Corridor Drawer_Corridor Drawer_0" property="MapChannel:1 = UVMap" />
+        <USERPROPERTY node="Corridor Picture_Corridor Picture_0" property="MapChannel:1 = UVMap" />
+        <USERPROPERTY node="Corridor Picture.001_Corridor Picture_0" property="MapChannel:1 = UVMap" />
+        <USERPROPERTY node="4" property="MapChannel:1 = UVMap" />
+        <USERPROPERTY node="Cube.002_Fridge_0" property="MapChannel:1 = UVMap" />
+        <USERPROPERTY node="Cube.003_Stuff Etc_0" property="MapChannel:1 = UVMap" />
+        <USERPROPERTY node="Cube.004_Big Table_0" property="MapChannel:1 = UVMap" />
+        <USERPROPERTY node="Cube.005_Living Room Pictures_0" property="MapChannel:1 = UVMap" />
+        <USERPROPERTY node="12" property="MapChannel:1 = UVMap" />
+        <USERPROPERTY node="Cube.007_Big Table_0" property="MapChannel:1 = UVMap" />
+        <USERPROPERTY node="Cube.008_Big Table_0" property="MapChannel:1 = UVMap" />
+        <USERPROPERTY node="Cube.009_Big Table_0" property="MapChannel:1 = UVMap" />
+        <USERPROPERTY node="Cube.010_Big Table_0" property="MapChannel:1 = UVMap" />
+        <USERPROPERTY node="Cube.011_Stuff Etc_0" property="MapChannel:1 = UVMap" />
+        <USERPROPERTY node="Cube.012_Bathroom Required_0" property="MapChannel:1 = UVMap" />
+        <USERPROPERTY node="Cylinder_Bin_0" property="MapChannel:1 = UVMap" />
+        <USERPROPERTY node="Cylinder.001_BookShelf_0" property="MapChannel:1 = UVMap" />
+        <USERPROPERTY node="Deltarune Carpet_Deltarune Carpet_0" property="MapChannel:1 = UVMap" />
+        <USERPROPERTY node="Diploma_Drawer New Asriel_0" property="MapChannel:1 = UVMap" />
+        <USERPROPERTY node="Diploma 2_Poster ETC_0" property="MapChannel:1 = UVMap" />
+        <USERPROPERTY node="Door_Door_0" property="MapChannel:1 = UVMap" />
+        <USERPROPERTY node="Door.001_Door_0" property="MapChannel:1 = UVMap" />
+        <USERPROPERTY node="2" property="MapChannel:1 = UVMap" />
+        <USERPROPERTY node="8" property="MapChannel:1 = UVMap" />
+        <USERPROPERTY node="Door.005_Door_0" property="MapChannel:1 = UVMap" />
+        <USERPROPERTY node="5" property="MapChannel:1 = UVMap" />
+        <USERPROPERTY node="9" property="MapChannel:1 = UVMap" />
+        <USERPROPERTY node="Drawer New.002_Drawer New_0" property="MapChannel:1 = UVMap" />
+        <USERPROPERTY node="Drawer New Asriel.001_Drawer New Asriel_0" property="MapChannel:1 = UVMap" />
+        <USERPROPERTY node="0" property="MapChannel:1 = UVMap" />
+        <USERPROPERTY node="1" property="MapChannel:1 = UVMap" />
+        <USERPROPERTY node="Floor Tile 2:Electric boogaloo_Wooden Floor_0" property="MapChannel:1 = UVMap" />
+        <USERPROPERTY node="Kris Bed.001_Bed_0" property="MapChannel:1 = UVMap" />
+        <USERPROPERTY node="Ladder_Stuff Etc_0" property="MapChannel:1 = UVMap" />
+        <USERPROPERTY node="Ladder.001_Stuff Etc_0" property="MapChannel:1 = UVMap" />
+        <USERPROPERTY node="Lamp New.001_Drawer New_0" property="MapChannel:1 = UVMap" />
+        <USERPROPERTY node="Lamp New Asriel.001_Drawer New Asriel_0" property="MapChannel:1 = UVMap" />
+        <USERPROPERTY node="Lampy 2.001_Stuff Etc_0" property="MapChannel:1 = UVMap" />
+        <USERPROPERTY node="Lampy 2.002_Stuff Etc_0" property="MapChannel:1 = UVMap" />
+        <USERPROPERTY node="Lampy 2.003_Stuff Etc_0" property="MapChannel:1 = UVMap" />
+        <USERPROPERTY node="Lampy 2.004_Stuff Etc_0" property="MapChannel:1 = UVMap" />
+        <USERPROPERTY node="Lampy 2.005_Stuff Etc_0" property="MapChannel:1 = UVMap" />
+        <USERPROPERTY node="Lampy 2.006_Stuff Etc_0" property="MapChannel:1 = UVMap" />
+        <USERPROPERTY node="Lampy 2.007_Stuff Etc_0" property="MapChannel:1 = UVMap" />
+        <USERPROPERTY node="Lampy 2.008_Stuff Etc_0" property="MapChannel:1 = UVMap" />
+        <USERPROPERTY node="Lampy 2.009_Stuff Etc_0" property="MapChannel:1 = UVMap" />
+        <USERPROPERTY node="Lampy 2.010_Stuff Etc_0" property="MapChannel:1 = UVMap" />
+        <USERPROPERTY node="Living Room Floor_Wooden Floor_0" property="MapChannel:1 = UVMap" />
+        <USERPROPERTY node="Living Room Floor.001_Cupboard_0" property="MapChannel:1 = UVMap" />
+        <USERPROPERTY node="Living Room Floor.002_Television_0" property="MapChannel:1 = UVMap" />
+        <USERPROPERTY node="6" property="MapChannel:1 = UVMap" />
+        <USERPROPERTY node="7" property="MapChannel:1 = UVMap" />
+        <USERPROPERTY node="Living room Roof_Roof_0" property="MapChannel:1 = UVMap" />
+        <USERPROPERTY node="Living Room Rug_Round Carpet_0" property="MapChannel:1 = UVMap" />
+        <USERPROPERTY node="Living Room Walls_Wallpaper 2_0" property="MapChannel:1 = UVMap" />
+        <USERPROPERTY node="Living Room Walls_Wallpaper 2 Lower Part_0" property="MapChannel:1 = UVMap" />
+        <USERPROPERTY node="Living Room Walls.001_Window 2_0" property="MapChannel:1 = UVMap" />
+        <USERPROPERTY node="Living Room Walls.002_Window 2_0" property="MapChannel:1 = UVMap" />
+        <USERPROPERTY node="Living Room Walls.003_Window 2_0" property="MapChannel:1 = UVMap" />
+        <USERPROPERTY node="Living Room Walls.004_Window 2_0" property="MapChannel:1 = UVMap" />
+        <USERPROPERTY node="Living Room Walls.005_Window 2_0" property="MapChannel:1 = UVMap" />
+        <USERPROPERTY node="Living Room Walls.006_Window 2_0" property="MapChannel:1 = UVMap" />
+        <USERPROPERTY node="Living Room Walls.007_Window 2_0" property="MapChannel:1 = UVMap" />
+        <USERPROPERTY node="Living Room Walls.008_Blacky_0" property="MapChannel:1 = UVMap" />
+        <USERPROPERTY node="Living Room Walls.009_Blacky_0" property="MapChannel:1 = UVMap" />
+        <USERPROPERTY node="Mirror_Mirror_0" property="MapChannel:1 = UVMap" />
+        <USERPROPERTY node="Mirror _Bathroom Sink_0" property="MapChannel:1 = UVMap" />
+        <USERPROPERTY node="Phone_Upper_0" property="MapChannel:1 = UVMap" />
+        <USERPROPERTY node="Photo.001_Drawer New Asriel_0" property="MapChannel:1 = UVMap" />
+        <USERPROPERTY node="Picturesque_Living Room Pictures_0" property="MapChannel:1 = UVMap" />
+        <USERPROPERTY node="Picturesque.001_Living Room Pictures_0" property="MapChannel:1 = UVMap" />
+        <USERPROPERTY node="Poster_Poster ETC_0" property="MapChannel:1 = UVMap" />
+        <USERPROPERTY node="Rai_Drawer New_0" property="MapChannel:1 = UVMap" />
+        <USERPROPERTY node="Rail 2_Stuff Etc_0" property="MapChannel:1 = UVMap" />
+        <USERPROPERTY node="Rail 2.001_Stuff Etc_0" property="MapChannel:1 = UVMap" />
+        <USERPROPERTY node="Rail 2.002_Stuff Etc_0" property="MapChannel:1 = UVMap" />
+        <USERPROPERTY node="Receptacle_Stuff Etc_0" property="MapChannel:1 = UVMap" />
+        <USERPROPERTY node="Receptacle.001_Stuff Etc_0" property="MapChannel:1 = UVMap" />
+        <USERPROPERTY node="Receptacle.002_Stuff Etc_0" property="MapChannel:1 = UVMap" />
+        <USERPROPERTY node="Receptacle.003_Stuff Etc_0" property="MapChannel:1 = UVMap" />
+        <USERPROPERTY node="Receptacle.004_Stuff Etc_0" property="MapChannel:1 = UVMap" />
+        <USERPROPERTY node="Receptacle.005_Stuff Etc_0" property="MapChannel:1 = UVMap" />
+        <USERPROPERTY node="Receptacle.006_Stuff Etc_0" property="MapChannel:1 = UVMap" />
+        <USERPROPERTY node="Roof_Roof_0" property="MapChannel:1 = UVMap" />
+        <USERPROPERTY node="Roof 2_Roof_0" property="MapChannel:1 = UVMap" />
+        <USERPROPERTY node="Roof 2.001_Roof_0" property="MapChannel:1 = UVMap" />
+        <USERPROPERTY node="Roof 2.002_Roof_0" property="MapChannel:1 = UVMap" />
+        <USERPROPERTY node="Shelfs_Drawer New_0" property="MapChannel:1 = UVMap" />
+        <USERPROPERTY node="Shelfs Asriel_Drawer New Asriel_0" property="MapChannel:1 = UVMap" />
+        <USERPROPERTY node="Sink_Bathroom Sink_0" property="MapChannel:1 = UVMap" />
+        <USERPROPERTY node="Sink Towel_Bathroom Toilet_0" property="MapChannel:1 = UVMap" />
+        <USERPROPERTY node="Smoke Thingy_Upper_0" property="MapChannel:1 = UVMap" />
+        <USERPROPERTY node="SuitCase Green 2_BookShelf_0" property="MapChannel:1 = UVMap" />
+        <USERPROPERTY node="SuitCase Normal_BookShelf_0" property="MapChannel:1 = UVMap" />
+        <USERPROPERTY node="Thingamajinga_Television_0" property="MapChannel:1 = UVMap" />
+        <USERPROPERTY node="Toilet_Bathroom Toilet_0" property="MapChannel:1 = UVMap" />
+        <USERPROPERTY node="Toilet Paper_Bathroom Toilet_0" property="MapChannel:1 = UVMap" />
+        <USERPROPERTY node="Trophies_Poster ETC_0" property="MapChannel:1 = UVMap" />
+        <USERPROPERTY node="TV hand_Television_0" property="MapChannel:1 = UVMap" />
+        <USERPROPERTY node="Wallpaper Corridor_Wallpaper 2 Lower Part_0" property="MapChannel:1 = UVMap" />
+        <USERPROPERTY node="Wallpaper Corridor_Wallpaper 2_0" property="MapChannel:1 = UVMap" />
+        <USERPROPERTY node="3" property="MapChannel:1 = UVMap" />
+        <USERPROPERTY node="Alarm Clock_Drawer New Asriel_0" property="MapChannel:1 = UVMap" />
+        <USERPROPERTY node="Asriel Bed.001_Asriel Bed_0" property="MapChannel:1 = UVMap" />
+        <USERPROPERTY node="10" property="MapChannel:1 = UVMap" />
+        <USERPROPERTY node="11" property="MapChannel:1 = UVMap" />
+        <USERPROPERTY node="Bath Towel_Bathroom Toilet_0" property="MapChannel:1 = UVMap" />
+        <USERPROPERTY node="Bathroom Ceiling_Bathroom Ceiling_0" property="MapChannel:1 = UVMap" />
+        <USERPROPERTY node="Bathroom Rails_Bathroom Required_0" property="MapChannel:1 = UVMap" />
+        <USERPROPERTY node="Bathroom Rug_Bathroom Toilet_0" property="MapChannel:1 = UVMap" />
+        <USERPROPERTY node="Bathroom Tile_Bathroom Floor_0" property="MapChannel:1 = UVMap" />
+        <USERPROPERTY node="Bathroom Window_Bathroom Window_0" property="MapChannel:1 = UVMap" />
+        <USERPROPERTY node="BathroomWall Tile_Bathroom Wall Tile Lower_0" property="MapChannel:1 = UVMap" />
+        <USERPROPERTY node="BathroomWall Tile_Bathroom Wall Tile 2 Lower_0" property="MapChannel:1 = UVMap" />
+        <USERPROPERTY node="BathroomWall Tile_Bathroom Wall Tile 2_0" property="MapChannel:1 = UVMap" />
+        <USERPROPERTY node="BathroomWall Tile_Bathroom Wall Tile_0" property="MapChannel:1 = UVMap" />
+        <USERPROPERTY node="BathroomWall Tile.001_Bathroom Wall Tile 2 Lower_0" property="MapChannel:1 = UVMap" />
+        <USERPROPERTY node="BathroomWall Tile.001_Bathroom Wall Tile 2_0" property="MapChannel:1 = UVMap" />
+        <USERPROPERTY node="BookShelf_BookShelf_0" property="MapChannel:1 = UVMap" />
+        <USERPROPERTY node="BookShelf.001_BookShelf_0" property="MapChannel:1 = UVMap" />
+        <USERPROPERTY node="Box.001_Box_0" property="MapChannel:1 = UVMap" />
+        <USERPROPERTY node="Box.002_Box_0" property="MapChannel:1 = UVMap" />
+        <USERPROPERTY node="Box.003_Box_0" property="MapChannel:1 = UVMap" />
+        <USERPROPERTY node="Box.004_Box_0" property="MapChannel:1 = UVMap" />
+        <USERPROPERTY node="Box.005_Box_0" property="MapChannel:1 = UVMap" />
+        <USERPROPERTY node="Box.006_Box_0" property="MapChannel:1 = UVMap" />
+        <USERPROPERTY node="Carpet corridor_Corridor Carpet_0" property="MapChannel:1 = UVMap" />
+        <USERPROPERTY node="Carpet corridor_Corridor Carpet Middle_0" property="MapChannel:1 = UVMap" />
+        <USERPROPERTY node="Carpet Tile Room_Floor Carpet_0" property="MapChannel:1 = UVMap" />
+        <USERPROPERTY node="Photo.001_Drawer New Asriel_0.003" property="MapChannel:1 = UVMap" />
+        <USERPROPERTY node="Corridor Picture_Corridor Picture_0.001" property="MapChannel:1 = UVMap" />
+        <USERPROPERTY node="Corridor Picture_Corridor Picture_0.002" property="MapChannel:1 = UVMap" />
+    </USERPROPERTYLIST>
+</XML>

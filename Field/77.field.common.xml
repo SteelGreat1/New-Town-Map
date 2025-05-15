@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="euc-kr" ?>
 <maiet>
+    <SOUND name="HomeMusic" x="45747.949219" y="39228.750000" z="8582.727539" distance_min="1250.000000" distance_max="1250.000000" mute_ambient="false" />
     <SOUND name="Easteregg" x="58367.398438" y="17729.880859" z="6143.042480" distance_min="1200.000000" distance_max="1200.000000" mute_ambient="false" />
     <SOUND name="Chocobo" x="54463.832031" y="13491.396484" z="3350.563721" distance_min="100.000000" distance_max="250.000000" mute_ambient="false" />
 </maiet>

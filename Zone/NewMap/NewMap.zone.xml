@@ -53,6 +53,18 @@
             </PROPERTY>
         </DIRLIGHT>
         <SCENEINSTANCE>
+            <COMMON name="EasterEggHome.scene_001">
+                <POSITION>45664.980469 39622.167969 8354.402344</POSITION>
+                <DIRECTION>0.000000 1.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>0.167413 0.167413 0.167413</SCALE>
+            </COMMON>
+            <PROPERTY>
+                <FILENAME>EasterEggHome.scene.xml</FILENAME>
+            </PROPERTY>
+            <SCENE />
+        </SCENEINSTANCE>
+        <SCENEINSTANCE>
             <COMMON name="Town.scene_001">
                 <POSITION>53431.464844 19597.914063 3039.394531</POSITION>
                 <DIRECTION>0.000000 1.000000 0.000000</DIRECTION>

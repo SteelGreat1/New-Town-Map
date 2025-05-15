@@ -8,6 +8,15 @@ fileIn ( strCurrentFilePath + "../../../Dev/MAIETExporters/zone.ms" )
 ImportTerrain "C:/Users/Nanaki/Desktop/DevKit/Data/Zone/NewMap/NewMap_dis.dds" "C:/Users/Nanaki/Desktop/DevKit/Data/Zone/NewMap/NewMap_baked.dds" 80000.000 80000.000
 
 -- Actor ÀÓÆ÷Æ® ----------------------------------------------------------
+maxfile = getFilesRecursive pathXRefSearch "EasterEggHome.max"
+bSuccess = XRefMAXFile maxfile
+if(bSuccess) then (
+	newNodes = selection
+	tm = (matrix3 [0.167,0.000,0.000] [0.000,0.167,0.000] [0.000,0.000,0.167] [45664.980,39622.168,8354.402] 	)
+	for t in newNodes do (
+		if(t.parent == undefined) then (t.transform = t.transform * tm) 
+	)
+)
 maxfile = getFilesRecursive pathXRefSearch "Town.max"
 bSuccess = XRefMAXFile maxfile
 if(bSuccess) then (
@@ -412,46 +421,6 @@ if(bSuccess) then (
 	importSpeedTree "BM_BurfordHolly_RT.spt" "BM_BurfordHolly_RT_080" tm
 )
 (
-	local tm = matrix3 [33.000,0.000,0.000] [0.000,33.000,0.000] [0.000,0.000,33.000] [51265.008,17859.707,3026.925] 
-	importSpeedTree "BM_BurfordHolly_RT.spt" "BM_BurfordHolly_RT_34" tm
-)
-(
-	local tm = matrix3 [10.662,0.000,0.000] [0.000,10.662,0.000] [0.000,0.000,10.662] [58042.617,14627.435,4424.904] 
-	importSpeedTree "BM_CommonOlive_RT.spt" "BM_CommonOlive_RT_001" tm
-)
-(
-	local tm = matrix3 [33.000,0.000,0.000] [0.000,33.000,0.000] [0.000,0.000,33.000] [54476.887,16261.432,3510.078] 
-	importSpeedTree "BM_GreenAsh_RT.spt" "BM_GreenAsh_RT_001" tm
-)
-(
-	local tm = matrix3 [33.000,0.000,0.000] [0.000,33.000,0.000] [0.000,0.000,33.000] [59895.430,18601.217,4886.592] 
-	importSpeedTree "BM_GreenAsh_RT.spt" "BM_GreenAsh_RT_004" tm
-)
-(
-	local tm = matrix3 [18.039,-5.861,0.000] [5.861,18.039,0.000] [0.000,0.000,18.967] [58391.078,16202.262,4520.993] 
-	importSpeedTree "RH_CommonOlive.spt" "RH_CommonOlive_001" tm
-)
-(
-	local tm = matrix3 [33.000,0.000,0.000] [0.000,33.000,0.000] [0.000,0.000,33.000] [63027.988,13163.510,4307.149] 
-	importSpeedTree "RH_CommonOlive.spt" "RH_CommonOlive_002" tm
-)
-(
-	local tm = matrix3 [11.353,0.000,0.000] [0.000,11.353,0.000] [0.000,0.000,11.353] [51309.590,20883.395,3740.288] 
-	importSpeedTree "RH_LiveOak_RT.spt" "RH_LiveOak_RT_001" tm
-)
-(
-	local tm = matrix3 [33.000,0.000,0.000] [0.000,33.000,0.000] [0.000,0.000,33.000] [61094.574,16576.074,5184.728] 
-	importSpeedTree "RH_LiveOak_RT.spt" "RH_LiveOak_RT_002" tm
-)
-(
-	local tm = matrix3 [32.022,0.000,0.000] [0.000,32.022,0.000] [0.000,0.000,32.022] [51416.293,18090.053,3036.581] 
-	importSpeedTree "Rengot_GiantRedwood.spt" "Rengot_GiantRedwood_001" tm
-)
-(
-	local tm = matrix3 [33.000,0.000,0.000] [0.000,33.000,0.000] [0.000,0.000,33.000] [48744.891,15141.824,5284.122] 
-	importSpeedTree "Riode_CommonOlive_1.spt" "Riode_CommonOlive_1_001" tm
-)
-(
 	local tm = matrix3 [33.000,0.000,0.000] [0.000,33.000,0.000] [0.000,0.000,33.000] [46013.477,17252.275,5113.592] 
 	importSpeedTree "BM_BurfordHolly_RT.spt" "BM_BurfordHolly_RT_081" tm
 )
@@ -496,12 +465,28 @@ if(bSuccess) then (
 	importSpeedTree "BM_BurfordHolly_RT.spt" "BM_BurfordHolly_RT_091" tm
 )
 (
+	local tm = matrix3 [33.000,0.000,0.000] [0.000,33.000,0.000] [0.000,0.000,33.000] [51265.008,17859.707,3026.925] 
+	importSpeedTree "BM_BurfordHolly_RT.spt" "BM_BurfordHolly_RT_34" tm
+)
+(
+	local tm = matrix3 [10.662,0.000,0.000] [0.000,10.662,0.000] [0.000,0.000,10.662] [58042.617,14627.435,4424.904] 
+	importSpeedTree "BM_CommonOlive_RT.spt" "BM_CommonOlive_RT_001" tm
+)
+(
 	local tm = matrix3 [33.000,0.000,0.000] [0.000,33.000,0.000] [0.000,0.000,33.000] [45256.180,19079.574,5985.156] 
 	importSpeedTree "BM_CommonOlive_RT.spt" "BM_CommonOlive_RT_002" tm
 )
 (
 	local tm = matrix3 [33.000,0.000,0.000] [0.000,33.000,0.000] [0.000,0.000,33.000] [49034.879,23127.285,6606.488] 
 	importSpeedTree "BM_CommonOlive_RT.spt" "BM_CommonOlive_RT_003" tm
+)
+(
+	local tm = matrix3 [33.000,0.000,0.000] [0.000,33.000,0.000] [0.000,0.000,33.000] [54476.887,16261.432,3510.078] 
+	importSpeedTree "BM_GreenAsh_RT.spt" "BM_GreenAsh_RT_001" tm
+)
+(
+	local tm = matrix3 [33.000,0.000,0.000] [0.000,33.000,0.000] [0.000,0.000,33.000] [59895.430,18601.217,4886.592] 
+	importSpeedTree "BM_GreenAsh_RT.spt" "BM_GreenAsh_RT_004" tm
 )
 (
 	local tm = matrix3 [33.000,0.000,0.000] [0.000,33.000,0.000] [0.000,0.000,33.000] [48889.027,19651.752,5398.858] 
@@ -514,6 +499,30 @@ if(bSuccess) then (
 (
 	local tm = matrix3 [33.000,0.000,0.000] [0.000,33.000,0.000] [0.000,0.000,33.000] [50842.590,22214.658,5374.975] 
 	importSpeedTree "Grandwall_WesternRedCedar_2.spt" "Grandwall_WesternRedCedar_2_001" tm
+)
+(
+	local tm = matrix3 [18.039,-5.861,0.000] [5.861,18.039,0.000] [0.000,0.000,18.967] [58391.078,16202.262,4520.993] 
+	importSpeedTree "RH_CommonOlive.spt" "RH_CommonOlive_001" tm
+)
+(
+	local tm = matrix3 [33.000,0.000,0.000] [0.000,33.000,0.000] [0.000,0.000,33.000] [63027.988,13163.510,4307.149] 
+	importSpeedTree "RH_CommonOlive.spt" "RH_CommonOlive_002" tm
+)
+(
+	local tm = matrix3 [11.353,0.000,0.000] [0.000,11.353,0.000] [0.000,0.000,11.353] [51309.590,20883.395,3740.288] 
+	importSpeedTree "RH_LiveOak_RT.spt" "RH_LiveOak_RT_001" tm
+)
+(
+	local tm = matrix3 [33.000,0.000,0.000] [0.000,33.000,0.000] [0.000,0.000,33.000] [61094.574,16576.074,5184.728] 
+	importSpeedTree "RH_LiveOak_RT.spt" "RH_LiveOak_RT_002" tm
+)
+(
+	local tm = matrix3 [32.022,0.000,0.000] [0.000,32.022,0.000] [0.000,0.000,32.022] [51416.293,18090.053,3036.581] 
+	importSpeedTree "Rengot_GiantRedwood.spt" "Rengot_GiantRedwood_001" tm
+)
+(
+	local tm = matrix3 [33.000,0.000,0.000] [0.000,33.000,0.000] [0.000,0.000,33.000] [48744.891,15141.824,5284.122] 
+	importSpeedTree "Riode_CommonOlive_1.spt" "Riode_CommonOlive_1_001" tm
 )
 (
 	local tm = matrix3 [33.000,0.000,0.000] [0.000,33.000,0.000] [0.000,0.000,33.000] [50061.152,14359.353,5026.589] 
